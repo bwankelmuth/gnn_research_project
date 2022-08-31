@@ -1,0 +1,1205 @@
+2022-07-27 10:29:10,547 - __main__ - INFO - Log directory: data/model\GTS_DR_2_h_1_64_lr_0.01_bs_15_0727102910/
+2022-07-27 10:29:10,583 - __main__ - INFO - Model created
+2022-07-27 10:29:10,585 - __main__ - INFO - Start training ...
+2022-07-27 10:29:10,586 - __main__ - INFO - num_batches:1
+2022-07-27 10:29:10,607 - __main__ - INFO - Total trainable parameters 114011
+2022-07-27 10:29:10,635 - __main__ - INFO - epoch complete
+2022-07-27 10:29:10,637 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:10,653 - __main__ - INFO - Epoch [0/200] (1) train_loss: 331.1804, val_loss: 272.2983, val_mae: 271.3831, val_mape: 4.3919, val_rmse: 418.2257, lr: 0.010000, 0.1s, 0.1s
+2022-07-27 10:29:10,673 - __main__ - INFO - Test: loss: 283.7611, mae: 282.8459, mape: 3.1013, rmse: 484.1980
+2022-07-27 10:29:10,674 - __main__ - INFO - Horizon 1 month: mae: 282.8459, mape: 3.1013, rmse: 484.1980
+2022-07-27 10:29:10,676 - __main__ - INFO - Epoch [0/200] (1) train_mae: 331.1804, test_loss: 283.7611, test_mae: 282.8459, test_mape: 3.1013, test_rmse: 484.1980, lr: 0.010000, 0.1s, 0.1s
+2022-07-27 10:29:10,717 - __main__ - INFO - epoch complete
+2022-07-27 10:29:10,718 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:10,733 - __main__ - INFO - Epoch [1/200] (2) train_loss: 309.6190, val_loss: 250.3394, val_mae: 249.4323, val_mape: 3.9019, val_rmse: 392.2207, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:10,747 - __main__ - INFO - Test: loss: 262.4786, mae: 261.5715, mape: 2.7538, rmse: 459.0710
+2022-07-27 10:29:10,748 - __main__ - INFO - Horizon 1 month: mae: 261.5715, mape: 2.7538, rmse: 459.0710
+2022-07-27 10:29:10,750 - __main__ - INFO - Epoch [1/200] (2) train_mae: 309.6190, test_loss: 262.4786, test_mae: 261.5715, test_mape: 2.7538, test_rmse: 459.0710, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:10,792 - __main__ - INFO - epoch complete
+2022-07-27 10:29:10,793 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:10,806 - __main__ - INFO - Epoch [2/200] (3) train_loss: 287.1359, val_loss: 225.2751, val_mae: 224.3768, val_mape: 3.3663, val_rmse: 362.1804, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:10,821 - __main__ - INFO - Test: loss: 239.7789, mae: 238.8805, mape: 2.3558, rmse: 430.4068
+2022-07-27 10:29:10,822 - __main__ - INFO - Horizon 1 month: mae: 238.8805, mape: 2.3558, rmse: 430.4068
+2022-07-27 10:29:10,823 - __main__ - INFO - Epoch [2/200] (3) train_mae: 287.1359, test_loss: 239.7789, test_mae: 238.8805, test_mape: 2.3558, test_rmse: 430.4068, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:10,867 - __main__ - INFO - epoch complete
+2022-07-27 10:29:10,868 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:10,882 - __main__ - INFO - Epoch [3/200] (4) train_loss: 261.5769, val_loss: 197.2394, val_mae: 196.3491, val_mape: 2.7185, val_rmse: 327.6262, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:10,896 - __main__ - INFO - Test: loss: 213.9256, mae: 213.0353, mape: 1.9113, rmse: 397.6064
+2022-07-27 10:29:10,897 - __main__ - INFO - Horizon 1 month: mae: 213.0353, mape: 1.9113, rmse: 397.6064
+2022-07-27 10:29:10,898 - __main__ - INFO - Epoch [3/200] (4) train_mae: 261.5769, test_loss: 213.9256, test_mae: 213.0353, test_mape: 1.9113, test_rmse: 397.6064, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:10,954 - __main__ - INFO - epoch complete
+2022-07-27 10:29:10,955 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:10,976 - __main__ - INFO - Epoch [4/200] (5) train_loss: 230.0071, val_loss: 164.9057, val_mae: 164.0215, val_mape: 1.9803, val_rmse: 287.2968, lr: 0.010000, 0.1s, 0.1s
+2022-07-27 10:29:10,993 - __main__ - INFO - Test: loss: 182.4457, mae: 181.5614, mape: 1.3466, rmse: 356.5933
+2022-07-27 10:29:10,994 - __main__ - INFO - Horizon 1 month: mae: 181.5614, mape: 1.3466, rmse: 356.5933
+2022-07-27 10:29:10,995 - __main__ - INFO - Epoch [4/200] (5) train_mae: 230.0071, test_loss: 182.4457, test_mae: 181.5614, test_mape: 1.3466, test_rmse: 356.5933, lr: 0.010000, 0.1s, 0.1s
+2022-07-27 10:29:11,051 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,053 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,079 - __main__ - INFO - Epoch [5/200] (6) train_loss: 193.0860, val_loss: 127.3276, val_mae: 126.4478, val_mape: 1.0192, val_rmse: 239.5030, lr: 0.010000, 0.1s, 0.1s
+2022-07-27 10:29:11,109 - __main__ - INFO - Test: loss: 153.1613, mae: 152.2814, mape: 0.7614, rmse: 312.7998
+2022-07-27 10:29:11,110 - __main__ - INFO - Horizon 1 month: mae: 152.2814, mape: 0.7614, rmse: 312.7998
+2022-07-27 10:29:11,112 - __main__ - INFO - Epoch [5/200] (6) train_mae: 193.0860, test_loss: 153.1613, test_mae: 152.2814, test_mape: 0.7614, test_rmse: 312.7998, lr: 0.010000, 0.1s, 0.1s
+2022-07-27 10:29:11,167 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,168 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,186 - __main__ - INFO - Epoch [6/200] (7) train_loss: 172.4031, val_loss: 111.4993, val_mae: 110.6080, val_mape: 0.6216, val_rmse: 197.0917, lr: 0.010000, 0.1s, 0.1s
+2022-07-27 10:29:11,203 - __main__ - INFO - Test: loss: 141.7221, mae: 140.8309, mape: 0.5414, rmse: 269.4870
+2022-07-27 10:29:11,206 - __main__ - INFO - Horizon 1 month: mae: 140.8309, mape: 0.5414, rmse: 269.4870
+2022-07-27 10:29:11,207 - __main__ - INFO - Epoch [6/200] (7) train_mae: 172.4031, test_loss: 141.7221, test_mae: 140.8309, test_mape: 0.5414, test_rmse: 269.4870, lr: 0.010000, 0.1s, 0.1s
+2022-07-27 10:29:11,264 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,266 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,286 - __main__ - INFO - Epoch [7/200] (8) train_loss: 162.8927, val_loss: 111.1224, val_mae: 110.2183, val_mape: 0.8094, val_rmse: 166.0955, lr: 0.010000, 0.1s, 0.1s
+2022-07-27 10:29:11,300 - __main__ - INFO - Test: loss: 140.5387, mae: 139.6346, mape: 0.7864, rmse: 233.0609
+2022-07-27 10:29:11,301 - __main__ - INFO - Horizon 1 month: mae: 139.6346, mape: 0.7864, rmse: 233.0609
+2022-07-27 10:29:11,302 - __main__ - INFO - Epoch [7/200] (8) train_mae: 162.8927, test_loss: 140.5387, test_mae: 139.6346, test_mape: 0.7864, test_rmse: 233.0609, lr: 0.010000, 0.1s, 0.1s
+2022-07-27 10:29:11,343 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,343 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,357 - __main__ - INFO - Epoch [8/200] (9) train_loss: 161.5160, val_loss: 109.5253, val_mae: 108.6102, val_mape: 1.0309, val_rmse: 149.1512, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,374 - __main__ - INFO - Test: loss: 136.4343, mae: 135.5192, mape: 0.9047, rmse: 208.3719
+2022-07-27 10:29:11,375 - __main__ - INFO - Horizon 1 month: mae: 135.5192, mape: 0.9047, rmse: 208.3719
+2022-07-27 10:29:11,376 - __main__ - INFO - Epoch [8/200] (9) train_mae: 161.5160, test_loss: 136.4343, test_mae: 135.5192, test_mape: 0.9047, test_rmse: 208.3719, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,413 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,414 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,429 - __main__ - INFO - Epoch [9/200] (10) train_loss: 160.7653, val_loss: 111.8243, val_mae: 110.9019, val_mape: 1.1482, val_rmse: 150.3032, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,442 - __main__ - INFO - Test: loss: 129.8796, mae: 128.9571, mape: 0.8646, rmse: 194.3852
+2022-07-27 10:29:11,443 - __main__ - INFO - Horizon 1 month: mae: 128.9571, mape: 0.8646, rmse: 194.3852
+2022-07-27 10:29:11,445 - __main__ - INFO - Epoch [9/200] (10) train_mae: 160.7653, test_loss: 129.8796, test_mae: 128.9571, test_mape: 0.8646, test_rmse: 194.3852, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,491 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,492 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,514 - __main__ - INFO - Epoch [10/200] (11) train_loss: 155.5475, val_loss: 103.1751, val_mae: 102.2512, val_mape: 0.8538, val_rmse: 150.9718, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,537 - __main__ - INFO - Test: loss: 121.5171, mae: 120.5931, mape: 0.8150, rmse: 187.0173
+2022-07-27 10:29:11,539 - __main__ - INFO - Horizon 1 month: mae: 120.5931, mape: 0.8150, rmse: 187.0173
+2022-07-27 10:29:11,540 - __main__ - INFO - Epoch [10/200] (11) train_mae: 155.5475, test_loss: 121.5171, test_mae: 120.5931, test_mape: 0.8150, test_rmse: 187.0173, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,582 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,582 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,595 - __main__ - INFO - Epoch [11/200] (12) train_loss: 144.3713, val_loss: 100.7332, val_mae: 99.8086, val_mape: 0.8232, val_rmse: 153.6949, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,609 - __main__ - INFO - Test: loss: 111.9397, mae: 111.0151, mape: 0.6797, rmse: 182.5621
+2022-07-27 10:29:11,610 - __main__ - INFO - Horizon 1 month: mae: 111.0151, mape: 0.6797, rmse: 182.5621
+2022-07-27 10:29:11,611 - __main__ - INFO - Epoch [11/200] (12) train_mae: 144.3713, test_loss: 111.9397, test_mae: 111.0151, test_mape: 0.6797, test_rmse: 182.5621, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,649 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,651 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,664 - __main__ - INFO - Epoch [12/200] (13) train_loss: 132.7280, val_loss: 99.9971, val_mae: 99.0616, val_mape: 1.1812, val_rmse: 151.0487, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,677 - __main__ - INFO - Test: loss: 106.9701, mae: 106.0346, mape: 0.7355, rmse: 177.5691
+2022-07-27 10:29:11,679 - __main__ - INFO - Horizon 1 month: mae: 106.0346, mape: 0.7355, rmse: 177.5691
+2022-07-27 10:29:11,680 - __main__ - INFO - Epoch [12/200] (13) train_mae: 132.7280, test_loss: 106.9701, test_mae: 106.0346, test_mape: 0.7355, test_rmse: 177.5691, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,724 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,725 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,741 - __main__ - INFO - Epoch [13/200] (14) train_loss: 121.5437, val_loss: 106.1110, val_mae: 105.1288, val_mape: 1.4723, val_rmse: 147.2713, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,760 - __main__ - INFO - Test: loss: 110.0427, mae: 109.0605, mape: 0.9847, rmse: 173.9036
+2022-07-27 10:29:11,761 - __main__ - INFO - Horizon 1 month: mae: 109.0605, mape: 0.9847, rmse: 173.9036
+2022-07-27 10:29:11,762 - __main__ - INFO - Epoch [13/200] (14) train_mae: 121.5437, test_loss: 110.0427, test_mae: 109.0605, test_mape: 0.9847, test_rmse: 173.9036, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,801 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,802 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,816 - __main__ - INFO - Epoch [14/200] (15) train_loss: 117.6532, val_loss: 113.5878, val_mae: 112.5480, val_mape: 1.8081, val_rmse: 149.5153, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,834 - __main__ - INFO - Test: loss: 116.6019, mae: 115.5621, mape: 1.2429, rmse: 177.3614
+2022-07-27 10:29:11,836 - __main__ - INFO - Horizon 1 month: mae: 115.5621, mape: 1.2429, rmse: 177.3614
+2022-07-27 10:29:11,837 - __main__ - INFO - Epoch [14/200] (15) train_mae: 117.6532, test_loss: 116.6019, test_mae: 115.5621, test_mape: 1.2429, test_rmse: 177.3614, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,882 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,884 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,899 - __main__ - INFO - Epoch [15/200] (16) train_loss: 123.5701, val_loss: 116.6569, val_mae: 115.5685, val_mape: 2.0128, val_rmse: 149.8562, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,912 - __main__ - INFO - Test: loss: 122.3892, mae: 121.3009, mape: 1.3934, rmse: 182.2447
+2022-07-27 10:29:11,913 - __main__ - INFO - Horizon 1 month: mae: 121.3009, mape: 1.3934, rmse: 182.2447
+2022-07-27 10:29:11,914 - __main__ - INFO - Epoch [15/200] (16) train_mae: 123.5701, test_loss: 122.3892, test_mae: 121.3009, test_mape: 1.3934, test_rmse: 182.2447, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,963 - __main__ - INFO - epoch complete
+2022-07-27 10:29:11,964 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:11,979 - __main__ - INFO - Epoch [16/200] (17) train_loss: 128.1933, val_loss: 117.3460, val_mae: 116.2229, val_mape: 2.0466, val_rmse: 149.1976, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:11,996 - __main__ - INFO - Test: loss: 122.6888, mae: 121.5658, mape: 1.3995, rmse: 184.0125
+2022-07-27 10:29:11,997 - __main__ - INFO - Horizon 1 month: mae: 121.5658, mape: 1.3995, rmse: 184.0125
+2022-07-27 10:29:11,998 - __main__ - INFO - Epoch [16/200] (17) train_mae: 128.1933, test_loss: 122.6888, test_mae: 121.5658, test_mape: 1.3995, test_rmse: 184.0125, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:12,039 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,040 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,057 - __main__ - INFO - Epoch [17/200] (18) train_loss: 128.7790, val_loss: 112.4907, val_mae: 111.3474, val_mape: 1.9223, val_rmse: 145.1756, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:12,072 - __main__ - INFO - Test: loss: 118.9203, mae: 117.7771, mape: 1.3320, rmse: 181.9787
+2022-07-27 10:29:12,074 - __main__ - INFO - Horizon 1 month: mae: 117.7771, mape: 1.3320, rmse: 181.9787
+2022-07-27 10:29:12,076 - __main__ - INFO - Epoch [17/200] (18) train_mae: 128.7790, test_loss: 118.9203, test_mae: 117.7771, test_mape: 1.3320, test_rmse: 181.9787, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:12,119 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,120 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,135 - __main__ - INFO - Epoch [18/200] (19) train_loss: 125.2426, val_loss: 105.5873, val_mae: 104.4345, val_mape: 1.6647, val_rmse: 141.8644, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:12,151 - __main__ - INFO - Test: loss: 112.0523, mae: 110.8996, mape: 1.1471, rmse: 176.9152
+2022-07-27 10:29:12,153 - __main__ - INFO - Horizon 1 month: mae: 110.8996, mape: 1.1471, rmse: 176.9152
+2022-07-27 10:29:12,154 - __main__ - INFO - Epoch [18/200] (19) train_mae: 125.2426, test_loss: 112.0523, test_mae: 110.8996, test_mape: 1.1471, test_rmse: 176.9152, lr: 0.010000, 0.0s, 0.1s
+2022-07-27 10:29:12,201 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,203 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,219 - __main__ - INFO - Epoch [19/200] (20) train_loss: 119.4391, val_loss: 98.3213, val_mae: 97.1661, val_mape: 1.3380, val_rmse: 139.9858, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,236 - __main__ - INFO - Test: loss: 104.3272, mae: 103.1719, mape: 0.9149, rmse: 172.9936
+2022-07-27 10:29:12,237 - __main__ - INFO - Horizon 1 month: mae: 103.1719, mape: 0.9149, rmse: 172.9936
+2022-07-27 10:29:12,239 - __main__ - INFO - Epoch [19/200] (20) train_mae: 119.4391, test_loss: 104.3272, test_mae: 103.1719, test_mape: 0.9149, test_rmse: 172.9936, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,281 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,284 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,298 - __main__ - INFO - Epoch [20/200] (21) train_loss: 114.1671, val_loss: 91.2774, val_mae: 90.1267, val_mape: 0.9610, val_rmse: 140.8339, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,316 - __main__ - INFO - Test: loss: 98.9205, mae: 97.7697, mape: 0.6651, rmse: 171.9363
+2022-07-27 10:29:12,318 - __main__ - INFO - Horizon 1 month: mae: 97.7697, mape: 0.6651, rmse: 171.9363
+2022-07-27 10:29:12,319 - __main__ - INFO - Epoch [20/200] (21) train_mae: 114.1671, test_loss: 98.9205, test_mae: 97.7697, test_mape: 0.6651, test_rmse: 171.9363, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,370 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,371 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,386 - __main__ - INFO - Epoch [21/200] (22) train_loss: 114.4135, val_loss: 88.6271, val_mae: 87.4810, val_mape: 0.8101, val_rmse: 139.0336, lr: 0.000500, 0.1s, 0.1s
+2022-07-27 10:29:12,402 - __main__ - INFO - Test: loss: 98.1152, mae: 96.9692, mape: 0.5740, rmse: 173.0474
+2022-07-27 10:29:12,403 - __main__ - INFO - Horizon 1 month: mae: 96.9692, mape: 0.5740, rmse: 173.0474
+2022-07-27 10:29:12,405 - __main__ - INFO - Epoch [21/200] (22) train_mae: 114.4135, test_loss: 98.1152, test_mae: 96.9692, test_mape: 0.5740, test_rmse: 173.0474, lr: 0.000500, 0.1s, 0.1s
+2022-07-27 10:29:12,449 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,450 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,467 - __main__ - INFO - Epoch [22/200] (23) train_loss: 115.6298, val_loss: 86.7905, val_mae: 85.6486, val_mape: 0.8059, val_rmse: 134.9208, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,482 - __main__ - INFO - Test: loss: 98.8687, mae: 97.7268, mape: 0.5685, rmse: 175.1009
+2022-07-27 10:29:12,484 - __main__ - INFO - Horizon 1 month: mae: 97.7268, mape: 0.5685, rmse: 175.1009
+2022-07-27 10:29:12,484 - __main__ - INFO - Epoch [22/200] (23) train_mae: 115.6298, test_loss: 98.8687, test_mae: 97.7268, test_mape: 0.5685, test_rmse: 175.1009, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,525 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,526 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,540 - __main__ - INFO - Epoch [23/200] (24) train_loss: 114.8069, val_loss: 86.7840, val_mae: 85.6359, val_mape: 0.9081, val_rmse: 132.9005, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,554 - __main__ - INFO - Test: loss: 100.7969, mae: 99.6487, mape: 0.6349, rmse: 179.5412
+2022-07-27 10:29:12,555 - __main__ - INFO - Horizon 1 month: mae: 99.6487, mape: 0.6349, rmse: 179.5412
+2022-07-27 10:29:12,556 - __main__ - INFO - Epoch [23/200] (24) train_mae: 114.8069, test_loss: 100.7969, test_mae: 99.6487, test_mape: 0.6349, test_rmse: 179.5412, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,593 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,594 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,608 - __main__ - INFO - Epoch [24/200] (25) train_loss: 115.4284, val_loss: 86.5265, val_mae: 85.4318, val_mape: 0.9365, val_rmse: 131.2729, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,622 - __main__ - INFO - Test: loss: 100.4341, mae: 99.3394, mape: 0.6535, rmse: 178.7382
+2022-07-27 10:29:12,623 - __main__ - INFO - Horizon 1 month: mae: 99.3394, mape: 0.6535, rmse: 178.7382
+2022-07-27 10:29:12,624 - __main__ - INFO - Epoch [24/200] (25) train_mae: 115.4284, test_loss: 100.4341, test_mae: 99.3394, test_mape: 0.6535, test_rmse: 178.7382, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,661 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,662 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,676 - __main__ - INFO - Epoch [25/200] (26) train_loss: 113.4589, val_loss: 87.8483, val_mae: 86.7997, val_mape: 0.9574, val_rmse: 132.2865, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,690 - __main__ - INFO - Test: loss: 100.1917, mae: 99.1431, mape: 0.6718, rmse: 176.2279
+2022-07-27 10:29:12,692 - __main__ - INFO - Horizon 1 month: mae: 99.1431, mape: 0.6718, rmse: 176.2279
+2022-07-27 10:29:12,694 - __main__ - INFO - Epoch [25/200] (26) train_mae: 113.4589, test_loss: 100.1917, test_mae: 99.1431, test_mape: 0.6718, test_rmse: 176.2279, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,746 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,748 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,763 - __main__ - INFO - Epoch [26/200] (27) train_loss: 111.0362, val_loss: 88.9165, val_mae: 87.9009, val_mape: 1.0043, val_rmse: 134.2365, lr: 0.000500, 0.1s, 0.1s
+2022-07-27 10:29:12,778 - __main__ - INFO - Test: loss: 97.8111, mae: 96.7955, mape: 0.6902, rmse: 172.8250
+2022-07-27 10:29:12,780 - __main__ - INFO - Horizon 1 month: mae: 96.7955, mape: 0.6902, rmse: 172.8250
+2022-07-27 10:29:12,781 - __main__ - INFO - Epoch [26/200] (27) train_mae: 111.0362, test_loss: 97.8111, test_mae: 96.7955, test_mape: 0.6902, test_rmse: 172.8250, lr: 0.000500, 0.1s, 0.1s
+2022-07-27 10:29:12,826 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,828 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,843 - __main__ - INFO - Epoch [27/200] (28) train_loss: 109.1234, val_loss: 91.3222, val_mae: 90.3285, val_mape: 1.0880, val_rmse: 137.5106, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,860 - __main__ - INFO - Test: loss: 97.8560, mae: 96.8623, mape: 0.7256, rmse: 170.4162
+2022-07-27 10:29:12,861 - __main__ - INFO - Horizon 1 month: mae: 96.8623, mape: 0.7256, rmse: 170.4162
+2022-07-27 10:29:12,862 - __main__ - INFO - Epoch [27/200] (28) train_mae: 109.1234, test_loss: 97.8560, test_mae: 96.8623, test_mape: 0.7256, test_rmse: 170.4162, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,903 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,904 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,920 - __main__ - INFO - Epoch [28/200] (29) train_loss: 107.8720, val_loss: 92.9223, val_mae: 91.9452, val_mape: 1.1617, val_rmse: 137.4492, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,936 - __main__ - INFO - Test: loss: 99.8543, mae: 98.8772, mape: 0.8004, rmse: 171.3695
+2022-07-27 10:29:12,937 - __main__ - INFO - Horizon 1 month: mae: 98.8772, mape: 0.8004, rmse: 171.3695
+2022-07-27 10:29:12,941 - __main__ - INFO - Epoch [28/200] (29) train_mae: 107.8720, test_loss: 99.8543, test_mae: 98.8772, test_mape: 0.8004, test_rmse: 171.3695, lr: 0.000500, 0.0s, 0.1s
+2022-07-27 10:29:12,983 - __main__ - INFO - epoch complete
+2022-07-27 10:29:12,984 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:12,999 - __main__ - INFO - Epoch [29/200] (30) train_loss: 108.7671, val_loss: 92.5342, val_mae: 91.5658, val_mape: 1.1608, val_rmse: 137.2245, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,016 - __main__ - INFO - Test: loss: 99.4598, mae: 98.4915, mape: 0.8148, rmse: 171.9375
+2022-07-27 10:29:13,017 - __main__ - INFO - Horizon 1 month: mae: 98.4915, mape: 0.8148, rmse: 171.9375
+2022-07-27 10:29:13,018 - __main__ - INFO - Epoch [29/200] (30) train_mae: 108.7671, test_loss: 99.4598, test_mae: 98.4915, test_mape: 0.8148, test_rmse: 171.9375, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,059 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,060 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,075 - __main__ - INFO - Epoch [30/200] (31) train_loss: 108.8816, val_loss: 92.0683, val_mae: 91.1071, val_mape: 1.0873, val_rmse: 138.1053, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,095 - __main__ - INFO - Test: loss: 97.7739, mae: 96.8127, mape: 0.7338, rmse: 171.4247
+2022-07-27 10:29:13,096 - __main__ - INFO - Horizon 1 month: mae: 96.8127, mape: 0.7338, rmse: 171.4247
+2022-07-27 10:29:13,097 - __main__ - INFO - Epoch [30/200] (31) train_mae: 108.8816, test_loss: 97.7739, test_mae: 96.8127, test_mape: 0.7338, test_rmse: 171.4247, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,139 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,141 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,155 - __main__ - INFO - Epoch [31/200] (32) train_loss: 108.7588, val_loss: 87.2656, val_mae: 86.3073, val_mape: 0.9664, val_rmse: 135.3264, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,172 - __main__ - INFO - Test: loss: 96.0287, mae: 95.0703, mape: 0.6860, rmse: 170.8354
+2022-07-27 10:29:13,173 - __main__ - INFO - Horizon 1 month: mae: 95.0703, mape: 0.6860, rmse: 170.8354
+2022-07-27 10:29:13,174 - __main__ - INFO - Epoch [31/200] (32) train_mae: 108.7588, test_loss: 96.0287, test_mae: 95.0703, test_mape: 0.6860, test_rmse: 170.8354, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,215 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,217 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,232 - __main__ - INFO - Epoch [32/200] (33) train_loss: 107.6386, val_loss: 85.4318, val_mae: 84.4710, val_mape: 0.9426, val_rmse: 131.4563, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,246 - __main__ - INFO - Test: loss: 96.0275, mae: 95.0666, mape: 0.6477, rmse: 172.5747
+2022-07-27 10:29:13,247 - __main__ - INFO - Horizon 1 month: mae: 95.0666, mape: 0.6477, rmse: 172.5747
+2022-07-27 10:29:13,249 - __main__ - INFO - Epoch [32/200] (33) train_mae: 107.6386, test_loss: 96.0275, test_mae: 95.0666, test_mape: 0.6477, test_rmse: 172.5747, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,294 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,296 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,310 - __main__ - INFO - Epoch [33/200] (34) train_loss: 106.4201, val_loss: 84.8817, val_mae: 83.8769, val_mape: 0.9148, val_rmse: 126.8745, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,329 - __main__ - INFO - Test: loss: 98.6327, mae: 97.6280, mape: 0.6742, rmse: 176.2861
+2022-07-27 10:29:13,330 - __main__ - INFO - Horizon 1 month: mae: 97.6280, mape: 0.6742, rmse: 176.2861
+2022-07-27 10:29:13,332 - __main__ - INFO - Epoch [33/200] (34) train_mae: 106.4201, test_loss: 98.6327, test_mae: 97.6280, test_mape: 0.6742, test_rmse: 176.2861, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,381 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,383 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,398 - __main__ - INFO - Epoch [34/200] (35) train_loss: 104.4765, val_loss: 81.9865, val_mae: 80.9664, val_mape: 0.7179, val_rmse: 127.6817, lr: 0.000025, 0.1s, 0.1s
+2022-07-27 10:29:13,416 - __main__ - INFO - Test: loss: 96.2636, mae: 95.2435, mape: 0.5209, rmse: 174.6499
+2022-07-27 10:29:13,417 - __main__ - INFO - Horizon 1 month: mae: 95.2435, mape: 0.5209, rmse: 174.6499
+2022-07-27 10:29:13,418 - __main__ - INFO - Epoch [34/200] (35) train_mae: 104.4765, test_loss: 96.2636, test_mae: 95.2435, test_mape: 0.5209, test_rmse: 174.6499, lr: 0.000025, 0.1s, 0.1s
+2022-07-27 10:29:13,461 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,463 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,480 - __main__ - INFO - Epoch [35/200] (36) train_loss: 105.7412, val_loss: 79.1754, val_mae: 78.1474, val_mape: 0.6178, val_rmse: 126.3112, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,497 - __main__ - INFO - Test: loss: 96.7480, mae: 95.7200, mape: 0.5054, rmse: 174.2341
+2022-07-27 10:29:13,498 - __main__ - INFO - Horizon 1 month: mae: 95.7200, mape: 0.5054, rmse: 174.2341
+2022-07-27 10:29:13,500 - __main__ - INFO - Epoch [35/200] (36) train_mae: 105.7412, test_loss: 96.7480, test_mae: 95.7200, test_mape: 0.5054, test_rmse: 174.2341, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,542 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,544 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,558 - __main__ - INFO - Epoch [36/200] (37) train_loss: 106.7524, val_loss: 79.6213, val_mae: 78.5856, val_mape: 0.5955, val_rmse: 126.5209, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,590 - __main__ - INFO - Test: loss: 96.3373, mae: 95.3015, mape: 0.4662, rmse: 176.3879
+2022-07-27 10:29:13,592 - __main__ - INFO - Horizon 1 month: mae: 95.3015, mape: 0.4662, rmse: 176.3879
+2022-07-27 10:29:13,594 - __main__ - INFO - Epoch [36/200] (37) train_mae: 106.7524, test_loss: 96.3373, test_mae: 95.3015, test_mape: 0.4662, test_rmse: 176.3879, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,644 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,646 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,659 - __main__ - INFO - Epoch [37/200] (38) train_loss: 106.0933, val_loss: 82.2376, val_mae: 81.1927, val_mape: 0.7261, val_rmse: 127.3611, lr: 0.000025, 0.1s, 0.1s
+2022-07-27 10:29:13,673 - __main__ - INFO - Test: loss: 96.9406, mae: 95.8957, mape: 0.5308, rmse: 178.6594
+2022-07-27 10:29:13,675 - __main__ - INFO - Horizon 1 month: mae: 95.8957, mape: 0.5308, rmse: 178.6594
+2022-07-27 10:29:13,676 - __main__ - INFO - Epoch [37/200] (38) train_mae: 106.0933, test_loss: 96.9406, test_mae: 95.8957, test_mape: 0.5308, test_rmse: 178.6594, lr: 0.000025, 0.1s, 0.1s
+2022-07-27 10:29:13,716 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,718 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,731 - __main__ - INFO - Epoch [38/200] (39) train_loss: 103.8948, val_loss: 84.7820, val_mae: 83.7334, val_mape: 0.9044, val_rmse: 126.9566, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,749 - __main__ - INFO - Test: loss: 96.5084, mae: 95.4597, mape: 0.6023, rmse: 177.5780
+2022-07-27 10:29:13,751 - __main__ - INFO - Horizon 1 month: mae: 95.4597, mape: 0.6023, rmse: 177.5780
+2022-07-27 10:29:13,752 - __main__ - INFO - Epoch [38/200] (39) train_mae: 103.8948, test_loss: 96.5084, test_mae: 95.4597, test_mape: 0.6023, test_rmse: 177.5780, lr: 0.000025, 0.0s, 0.1s
+2022-07-27 10:29:13,790 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,792 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,803 - __main__ - INFO - Epoch [39/200] (40) train_loss: 104.4117, val_loss: 81.2301, val_mae: 80.1927, val_mape: 0.7384, val_rmse: 127.3117, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:13,819 - __main__ - INFO - Test: loss: 93.8879, mae: 92.8504, mape: 0.5716, rmse: 171.6025
+2022-07-27 10:29:13,819 - __main__ - INFO - Horizon 1 month: mae: 92.8504, mape: 0.5716, rmse: 171.6025
+2022-07-27 10:29:13,820 - __main__ - INFO - Epoch [39/200] (40) train_mae: 104.4117, test_loss: 93.8879, test_mae: 92.8504, test_mape: 0.5716, test_rmse: 171.6025, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:13,863 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,864 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,876 - __main__ - INFO - Epoch [40/200] (41) train_loss: 102.0930, val_loss: 82.0187, val_mae: 80.9723, val_mape: 0.6436, val_rmse: 138.6296, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:13,892 - __main__ - INFO - Test: loss: 92.7625, mae: 91.7161, mape: 0.4799, rmse: 167.9059
+2022-07-27 10:29:13,893 - __main__ - INFO - Horizon 1 month: mae: 91.7161, mape: 0.4799, rmse: 167.9059
+2022-07-27 10:29:13,895 - __main__ - INFO - Epoch [40/200] (41) train_mae: 102.0930, test_loss: 92.7625, test_mae: 91.7161, test_mape: 0.4799, test_rmse: 167.9059, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:13,940 - __main__ - INFO - epoch complete
+2022-07-27 10:29:13,941 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:13,958 - __main__ - INFO - Epoch [41/200] (42) train_loss: 104.9505, val_loss: 85.8487, val_mae: 84.7950, val_mape: 0.7005, val_rmse: 147.4995, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:13,981 - __main__ - INFO - Test: loss: 94.1853, mae: 93.1317, mape: 0.4999, rmse: 168.9348
+2022-07-27 10:29:13,982 - __main__ - INFO - Horizon 1 month: mae: 93.1317, mape: 0.4999, rmse: 168.9348
+2022-07-27 10:29:13,983 - __main__ - INFO - Epoch [41/200] (42) train_mae: 104.9505, test_loss: 94.1853, test_mae: 93.1317, test_mape: 0.4999, test_rmse: 168.9348, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,025 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,026 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,042 - __main__ - INFO - Epoch [42/200] (43) train_loss: 106.4920, val_loss: 89.2319, val_mae: 88.1718, val_mape: 0.9242, val_rmse: 146.1220, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,061 - __main__ - INFO - Test: loss: 96.2686, mae: 95.2085, mape: 0.6182, rmse: 169.5391
+2022-07-27 10:29:14,062 - __main__ - INFO - Horizon 1 month: mae: 95.2085, mape: 0.6182, rmse: 169.5391
+2022-07-27 10:29:14,063 - __main__ - INFO - Epoch [42/200] (43) train_mae: 106.4920, test_loss: 96.2686, test_mae: 95.2085, test_mape: 0.6182, test_rmse: 169.5391, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,107 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,109 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,126 - __main__ - INFO - Epoch [43/200] (44) train_loss: 105.2335, val_loss: 88.7436, val_mae: 87.6905, val_mape: 1.0438, val_rmse: 139.9501, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,144 - __main__ - INFO - Test: loss: 97.2806, mae: 96.2274, mape: 0.7356, rmse: 168.2172
+2022-07-27 10:29:14,146 - __main__ - INFO - Horizon 1 month: mae: 96.2274, mape: 0.7356, rmse: 168.2172
+2022-07-27 10:29:14,147 - __main__ - INFO - Epoch [43/200] (44) train_mae: 105.2335, test_loss: 97.2806, test_mae: 96.2274, test_mape: 0.7356, test_rmse: 168.2172, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,186 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,187 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,201 - __main__ - INFO - Epoch [44/200] (45) train_loss: 104.5939, val_loss: 89.3989, val_mae: 88.3642, val_mape: 1.0832, val_rmse: 134.7520, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,215 - __main__ - INFO - Test: loss: 94.9623, mae: 93.9275, mape: 0.6941, rmse: 168.1646
+2022-07-27 10:29:14,217 - __main__ - INFO - Horizon 1 month: mae: 93.9275, mape: 0.6941, rmse: 168.1646
+2022-07-27 10:29:14,218 - __main__ - INFO - Epoch [44/200] (45) train_mae: 104.5939, test_loss: 94.9623, test_mae: 93.9275, test_mape: 0.6941, test_rmse: 168.1646, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,258 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,260 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,277 - __main__ - INFO - Epoch [45/200] (46) train_loss: 103.6866, val_loss: 86.5347, val_mae: 85.5285, val_mape: 0.9507, val_rmse: 133.0625, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,292 - __main__ - INFO - Test: loss: 93.3041, mae: 92.2979, mape: 0.6321, rmse: 168.7954
+2022-07-27 10:29:14,293 - __main__ - INFO - Horizon 1 month: mae: 92.2979, mape: 0.6321, rmse: 168.7954
+2022-07-27 10:29:14,294 - __main__ - INFO - Epoch [45/200] (46) train_mae: 103.6866, test_loss: 93.3041, test_mae: 92.2979, test_mape: 0.6321, test_rmse: 168.7954, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,335 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,337 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,353 - __main__ - INFO - Epoch [46/200] (47) train_loss: 101.6048, val_loss: 84.0473, val_mae: 83.0746, val_mape: 0.6475, val_rmse: 134.0044, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,368 - __main__ - INFO - Test: loss: 93.0126, mae: 92.0399, mape: 0.4818, rmse: 168.7940
+2022-07-27 10:29:14,370 - __main__ - INFO - Horizon 1 month: mae: 92.0399, mape: 0.4818, rmse: 168.7940
+2022-07-27 10:29:14,372 - __main__ - INFO - Epoch [46/200] (47) train_mae: 101.6048, test_loss: 93.0126, test_mae: 92.0399, test_mape: 0.4818, test_rmse: 168.7940, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,409 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,410 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,422 - __main__ - INFO - Epoch [47/200] (48) train_loss: 102.6175, val_loss: 82.4141, val_mae: 81.4681, val_mape: 0.6377, val_rmse: 131.1312, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:14,439 - __main__ - INFO - Test: loss: 95.7120, mae: 94.7660, mape: 0.5430, rmse: 170.4775
+2022-07-27 10:29:14,440 - __main__ - INFO - Horizon 1 month: mae: 94.7660, mape: 0.5430, rmse: 170.4775
+2022-07-27 10:29:14,442 - __main__ - INFO - Epoch [47/200] (48) train_mae: 102.6175, test_loss: 95.7120, test_mae: 94.7660, test_mape: 0.5430, test_rmse: 170.4775, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:14,480 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,481 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,494 - __main__ - INFO - Epoch [48/200] (49) train_loss: 101.3780, val_loss: 84.6395, val_mae: 83.7232, val_mape: 0.8023, val_rmse: 130.8619, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,510 - __main__ - INFO - Test: loss: 95.8348, mae: 94.9185, mape: 0.5712, rmse: 172.8936
+2022-07-27 10:29:14,512 - __main__ - INFO - Horizon 1 month: mae: 94.9185, mape: 0.5712, rmse: 172.8936
+2022-07-27 10:29:14,513 - __main__ - INFO - Epoch [48/200] (49) train_mae: 101.3780, test_loss: 95.8348, test_mae: 94.9185, test_mape: 0.5712, test_rmse: 172.8936, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,549 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,550 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,562 - __main__ - INFO - Epoch [49/200] (50) train_loss: 103.5107, val_loss: 81.6010, val_mae: 80.6406, val_mape: 0.7362, val_rmse: 129.0019, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:14,577 - __main__ - INFO - Test: loss: 93.4337, mae: 92.4733, mape: 0.5417, rmse: 171.9341
+2022-07-27 10:29:14,579 - __main__ - INFO - Horizon 1 month: mae: 92.4733, mape: 0.5417, rmse: 171.9341
+2022-07-27 10:29:14,580 - __main__ - INFO - Epoch [49/200] (50) train_mae: 103.5107, test_loss: 93.4337, test_mae: 92.4733, test_mape: 0.5417, test_rmse: 171.9341, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:14,622 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,624 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,638 - __main__ - INFO - Epoch [50/200] (51) train_loss: 100.4194, val_loss: 85.5108, val_mae: 84.5064, val_mape: 0.5995, val_rmse: 138.0374, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,656 - __main__ - INFO - Test: loss: 94.0795, mae: 93.0751, mape: 0.4672, rmse: 169.2372
+2022-07-27 10:29:14,657 - __main__ - INFO - Horizon 1 month: mae: 93.0751, mape: 0.4672, rmse: 169.2372
+2022-07-27 10:29:14,659 - __main__ - INFO - Epoch [50/200] (51) train_mae: 100.4194, test_loss: 94.0795, test_mae: 93.0751, test_mape: 0.4672, test_rmse: 169.2372, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,696 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,697 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,710 - __main__ - INFO - Epoch [51/200] (52) train_loss: 99.9783, val_loss: 84.7335, val_mae: 83.7135, val_mape: 0.7278, val_rmse: 136.4904, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:14,723 - __main__ - INFO - Test: loss: 92.8452, mae: 91.8252, mape: 0.4982, rmse: 167.8300
+2022-07-27 10:29:14,725 - __main__ - INFO - Horizon 1 month: mae: 91.8252, mape: 0.4982, rmse: 167.8300
+2022-07-27 10:29:14,727 - __main__ - INFO - Epoch [51/200] (52) train_mae: 99.9783, test_loss: 92.8452, test_mae: 91.8252, test_mape: 0.4982, test_rmse: 167.8300, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:14,764 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,766 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,784 - __main__ - INFO - Epoch [52/200] (53) train_loss: 100.9541, val_loss: 85.5302, val_mae: 84.5046, val_mape: 0.8933, val_rmse: 132.7255, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,806 - __main__ - INFO - Test: loss: 94.3388, mae: 93.3132, mape: 0.6260, rmse: 169.2807
+2022-07-27 10:29:14,807 - __main__ - INFO - Horizon 1 month: mae: 93.3132, mape: 0.6260, rmse: 169.2807
+2022-07-27 10:29:14,807 - __main__ - INFO - Epoch [52/200] (53) train_mae: 100.9541, test_loss: 94.3388, test_mae: 93.3132, test_mape: 0.6260, test_rmse: 169.2807, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,845 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,847 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,863 - __main__ - INFO - Epoch [53/200] (54) train_loss: 100.9842, val_loss: 83.3433, val_mae: 82.3237, val_mape: 0.7943, val_rmse: 130.3206, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,878 - __main__ - INFO - Test: loss: 92.1295, mae: 91.1099, mape: 0.5575, rmse: 168.7863
+2022-07-27 10:29:14,880 - __main__ - INFO - Horizon 1 month: mae: 91.1099, mape: 0.5575, rmse: 168.7863
+2022-07-27 10:29:14,881 - __main__ - INFO - Epoch [53/200] (54) train_mae: 100.9842, test_loss: 92.1295, test_mae: 91.1099, test_mape: 0.5575, test_rmse: 168.7863, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,919 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,921 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:14,936 - __main__ - INFO - Epoch [54/200] (55) train_loss: 101.3578, val_loss: 82.3265, val_mae: 81.3235, val_mape: 0.6412, val_rmse: 130.8923, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,950 - __main__ - INFO - Test: loss: 92.9760, mae: 91.9730, mape: 0.5232, rmse: 168.2777
+2022-07-27 10:29:14,951 - __main__ - INFO - Horizon 1 month: mae: 91.9730, mape: 0.5232, rmse: 168.2777
+2022-07-27 10:29:14,953 - __main__ - INFO - Epoch [54/200] (55) train_mae: 101.3578, test_loss: 92.9760, test_mae: 91.9730, test_mape: 0.5232, test_rmse: 168.2777, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:14,994 - __main__ - INFO - epoch complete
+2022-07-27 10:29:14,995 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,015 - __main__ - INFO - Epoch [55/200] (56) train_loss: 99.1045, val_loss: 86.3084, val_mae: 85.3254, val_mape: 0.6228, val_rmse: 134.4827, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,039 - __main__ - INFO - Test: loss: 94.8571, mae: 93.8741, mape: 0.5566, rmse: 166.5837
+2022-07-27 10:29:15,040 - __main__ - INFO - Horizon 1 month: mae: 93.8741, mape: 0.5566, rmse: 166.5837
+2022-07-27 10:29:15,041 - __main__ - INFO - Epoch [55/200] (56) train_mae: 99.1045, test_loss: 94.8571, test_mae: 93.8741, test_mape: 0.5566, test_rmse: 166.5837, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,094 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,096 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,114 - __main__ - INFO - Epoch [56/200] (57) train_loss: 99.5980, val_loss: 84.7886, val_mae: 83.8176, val_mape: 0.6588, val_rmse: 129.9485, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:15,132 - __main__ - INFO - Test: loss: 96.5250, mae: 95.5539, mape: 0.6109, rmse: 168.1828
+2022-07-27 10:29:15,133 - __main__ - INFO - Horizon 1 month: mae: 95.5539, mape: 0.6109, rmse: 168.1828
+2022-07-27 10:29:15,135 - __main__ - INFO - Epoch [56/200] (57) train_mae: 99.5980, test_loss: 96.5250, test_mae: 95.5539, test_mape: 0.6109, test_rmse: 168.1828, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:15,179 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,180 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,192 - __main__ - INFO - Epoch [57/200] (58) train_loss: 100.7116, val_loss: 81.2786, val_mae: 80.3138, val_mape: 0.6182, val_rmse: 127.4447, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,206 - __main__ - INFO - Test: loss: 92.8202, mae: 91.8555, mape: 0.5385, rmse: 171.4259
+2022-07-27 10:29:15,207 - __main__ - INFO - Horizon 1 month: mae: 91.8555, mape: 0.5385, rmse: 171.4259
+2022-07-27 10:29:15,208 - __main__ - INFO - Epoch [57/200] (58) train_mae: 100.7116, test_loss: 92.8202, test_mae: 91.8555, test_mape: 0.5385, test_rmse: 171.4259, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,245 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,246 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,260 - __main__ - INFO - Epoch [58/200] (59) train_loss: 101.4636, val_loss: 79.7927, val_mae: 78.8136, val_mape: 0.7160, val_rmse: 125.6683, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:15,276 - __main__ - INFO - Test: loss: 90.5587, mae: 89.5796, mape: 0.5605, rmse: 168.1150
+2022-07-27 10:29:15,277 - __main__ - INFO - Horizon 1 month: mae: 89.5796, mape: 0.5605, rmse: 168.1150
+2022-07-27 10:29:15,278 - __main__ - INFO - Epoch [58/200] (59) train_mae: 101.4636, test_loss: 90.5587, test_mae: 89.5796, test_mape: 0.5605, test_rmse: 168.1150, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:15,316 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,317 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,331 - __main__ - INFO - Epoch [59/200] (60) train_loss: 98.4106, val_loss: 86.0319, val_mae: 85.0437, val_mape: 0.7553, val_rmse: 135.2526, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,347 - __main__ - INFO - Test: loss: 93.7545, mae: 92.7663, mape: 0.5322, rmse: 166.4134
+2022-07-27 10:29:15,348 - __main__ - INFO - Horizon 1 month: mae: 92.7663, mape: 0.5322, rmse: 166.4134
+2022-07-27 10:29:15,351 - __main__ - INFO - Epoch [59/200] (60) train_mae: 98.4106, test_loss: 93.7545, test_mae: 92.7663, test_mape: 0.5322, test_rmse: 166.4134, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,393 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,395 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,409 - __main__ - INFO - Epoch [60/200] (61) train_loss: 98.8157, val_loss: 88.9212, val_mae: 87.9330, val_mape: 0.6957, val_rmse: 141.5207, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,428 - __main__ - INFO - Test: loss: 95.5517, mae: 94.5634, mape: 0.5107, rmse: 165.9699
+2022-07-27 10:29:15,429 - __main__ - INFO - Horizon 1 month: mae: 94.5634, mape: 0.5107, rmse: 165.9699
+2022-07-27 10:29:15,430 - __main__ - INFO - Epoch [60/200] (61) train_mae: 98.8157, test_loss: 95.5517, test_mae: 94.5634, test_mape: 0.5107, test_rmse: 165.9699, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,469 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,471 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,488 - __main__ - INFO - Epoch [61/200] (62) train_loss: 99.7094, val_loss: 84.1000, val_mae: 83.1223, val_mape: 0.6600, val_rmse: 136.3196, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,506 - __main__ - INFO - Test: loss: 91.9734, mae: 90.9958, mape: 0.4738, rmse: 163.6125
+2022-07-27 10:29:15,507 - __main__ - INFO - Horizon 1 month: mae: 90.9958, mape: 0.4738, rmse: 163.6125
+2022-07-27 10:29:15,509 - __main__ - INFO - Epoch [61/200] (62) train_mae: 99.7094, test_loss: 91.9734, test_mae: 90.9958, test_mape: 0.4738, test_rmse: 163.6125, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,547 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,548 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,564 - __main__ - INFO - Epoch [62/200] (63) train_loss: 100.4455, val_loss: 83.8434, val_mae: 82.8672, val_mape: 0.8071, val_rmse: 128.3240, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,584 - __main__ - INFO - Test: loss: 94.9316, mae: 93.9555, mape: 0.5919, rmse: 171.0175
+2022-07-27 10:29:15,585 - __main__ - INFO - Horizon 1 month: mae: 93.9555, mape: 0.5919, rmse: 171.0175
+2022-07-27 10:29:15,586 - __main__ - INFO - Epoch [62/200] (63) train_mae: 100.4455, test_loss: 94.9316, test_mae: 93.9555, test_mape: 0.5919, test_rmse: 171.0175, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,629 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,631 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,647 - __main__ - INFO - Epoch [63/200] (64) train_loss: 103.0312, val_loss: 79.5071, val_mae: 78.5206, val_mape: 0.7429, val_rmse: 125.5971, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,662 - __main__ - INFO - Test: loss: 91.0297, mae: 90.0432, mape: 0.5332, rmse: 166.6544
+2022-07-27 10:29:15,664 - __main__ - INFO - Horizon 1 month: mae: 90.0432, mape: 0.5332, rmse: 166.6544
+2022-07-27 10:29:15,665 - __main__ - INFO - Epoch [63/200] (64) train_mae: 103.0312, test_loss: 91.0297, test_mae: 90.0432, test_mape: 0.5332, test_rmse: 166.6544, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,708 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,710 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,722 - __main__ - INFO - Epoch [64/200] (65) train_loss: 98.6882, val_loss: 83.4520, val_mae: 82.4494, val_mape: 0.6554, val_rmse: 134.0926, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,738 - __main__ - INFO - Test: loss: 93.9849, mae: 92.9823, mape: 0.5393, rmse: 166.2661
+2022-07-27 10:29:15,739 - __main__ - INFO - Horizon 1 month: mae: 92.9823, mape: 0.5393, rmse: 166.2661
+2022-07-27 10:29:15,742 - __main__ - INFO - Epoch [64/200] (65) train_mae: 98.6882, test_loss: 93.9849, test_mae: 92.9823, test_mape: 0.5393, test_rmse: 166.2661, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,788 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,790 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,805 - __main__ - INFO - Epoch [65/200] (66) train_loss: 97.6921, val_loss: 82.3006, val_mae: 81.2844, val_mape: 0.6232, val_rmse: 131.4093, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,821 - __main__ - INFO - Test: loss: 94.3199, mae: 93.3037, mape: 0.5139, rmse: 169.4382
+2022-07-27 10:29:15,823 - __main__ - INFO - Horizon 1 month: mae: 93.3037, mape: 0.5139, rmse: 169.4382
+2022-07-27 10:29:15,825 - __main__ - INFO - Epoch [65/200] (66) train_mae: 97.6921, test_loss: 94.3199, test_mae: 93.3037, test_mape: 0.5139, test_rmse: 169.4382, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,865 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,866 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,882 - __main__ - INFO - Epoch [66/200] (67) train_loss: 98.4573, val_loss: 80.3731, val_mae: 79.3488, val_mape: 0.6917, val_rmse: 124.3889, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,899 - __main__ - INFO - Test: loss: 94.4149, mae: 93.3907, mape: 0.5241, rmse: 172.7379
+2022-07-27 10:29:15,900 - __main__ - INFO - Horizon 1 month: mae: 93.3907, mape: 0.5241, rmse: 172.7379
+2022-07-27 10:29:15,902 - __main__ - INFO - Epoch [66/200] (67) train_mae: 98.4573, test_loss: 94.4149, test_mae: 93.3907, test_mape: 0.5241, test_rmse: 172.7379, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,943 - __main__ - INFO - epoch complete
+2022-07-27 10:29:15,945 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:15,959 - __main__ - INFO - Epoch [67/200] (68) train_loss: 98.6669, val_loss: 81.9503, val_mae: 80.9222, val_mape: 0.6664, val_rmse: 124.3337, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:15,975 - __main__ - INFO - Test: loss: 91.3887, mae: 90.3605, mape: 0.5132, rmse: 170.9336
+2022-07-27 10:29:15,976 - __main__ - INFO - Horizon 1 month: mae: 90.3605, mape: 0.5132, rmse: 170.9336
+2022-07-27 10:29:15,978 - __main__ - INFO - Epoch [67/200] (68) train_mae: 98.6669, test_loss: 91.3887, test_mae: 90.3605, test_mape: 0.5132, test_rmse: 170.9336, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,021 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,022 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,039 - __main__ - INFO - Epoch [68/200] (69) train_loss: 98.7496, val_loss: 80.9585, val_mae: 79.9325, val_mape: 0.5632, val_rmse: 126.9977, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,056 - __main__ - INFO - Test: loss: 92.1091, mae: 91.0831, mape: 0.4989, rmse: 164.5015
+2022-07-27 10:29:16,058 - __main__ - INFO - Horizon 1 month: mae: 91.0831, mape: 0.4989, rmse: 164.5015
+2022-07-27 10:29:16,059 - __main__ - INFO - Epoch [68/200] (69) train_mae: 98.7496, test_loss: 92.1091, test_mae: 91.0831, test_mape: 0.4989, test_rmse: 164.5015, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,100 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,101 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,117 - __main__ - INFO - Epoch [69/200] (70) train_loss: 98.9949, val_loss: 86.7351, val_mae: 85.7093, val_mape: 0.5629, val_rmse: 136.5480, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,132 - __main__ - INFO - Test: loss: 93.4884, mae: 92.4626, mape: 0.4787, rmse: 162.1200
+2022-07-27 10:29:16,133 - __main__ - INFO - Horizon 1 month: mae: 92.4626, mape: 0.4787, rmse: 162.1200
+2022-07-27 10:29:16,134 - __main__ - INFO - Epoch [69/200] (70) train_mae: 98.9949, test_loss: 93.4884, test_mae: 92.4626, test_mape: 0.4787, test_rmse: 162.1200, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,174 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,175 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,192 - __main__ - INFO - Epoch [70/200] (71) train_loss: 98.9746, val_loss: 82.1421, val_mae: 81.1187, val_mape: 0.6021, val_rmse: 136.8189, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,208 - __main__ - INFO - Test: loss: 95.3921, mae: 94.3687, mape: 0.5134, rmse: 164.9748
+2022-07-27 10:29:16,209 - __main__ - INFO - Horizon 1 month: mae: 94.3687, mape: 0.5134, rmse: 164.9748
+2022-07-27 10:29:16,210 - __main__ - INFO - Epoch [70/200] (71) train_mae: 98.9746, test_loss: 95.3921, test_mae: 94.3687, test_mape: 0.5134, test_rmse: 164.9748, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,251 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,252 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,268 - __main__ - INFO - Epoch [71/200] (72) train_loss: 98.5648, val_loss: 85.9614, val_mae: 84.9418, val_mape: 0.7584, val_rmse: 136.3329, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,282 - __main__ - INFO - Test: loss: 92.5252, mae: 91.5056, mape: 0.5435, rmse: 162.4733
+2022-07-27 10:29:16,283 - __main__ - INFO - Horizon 1 month: mae: 91.5056, mape: 0.5435, rmse: 162.4733
+2022-07-27 10:29:16,284 - __main__ - INFO - Epoch [71/200] (72) train_mae: 98.5648, test_loss: 92.5252, test_mae: 91.5056, test_mape: 0.5435, test_rmse: 162.4733, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,326 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,327 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,339 - __main__ - INFO - Epoch [72/200] (73) train_loss: 97.9239, val_loss: 85.5872, val_mae: 84.5755, val_mape: 0.8786, val_rmse: 130.3404, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,353 - __main__ - INFO - Test: loss: 91.2785, mae: 90.2669, mape: 0.6162, rmse: 164.2768
+2022-07-27 10:29:16,354 - __main__ - INFO - Horizon 1 month: mae: 90.2669, mape: 0.6162, rmse: 164.2768
+2022-07-27 10:29:16,355 - __main__ - INFO - Epoch [72/200] (73) train_mae: 97.9239, test_loss: 91.2785, test_mae: 90.2669, test_mape: 0.6162, test_rmse: 164.2768, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,397 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,398 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,412 - __main__ - INFO - Epoch [73/200] (74) train_loss: 98.9124, val_loss: 83.5893, val_mae: 82.5862, val_mape: 0.9105, val_rmse: 126.5993, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,427 - __main__ - INFO - Test: loss: 90.9347, mae: 89.9317, mape: 0.5926, rmse: 165.3723
+2022-07-27 10:29:16,428 - __main__ - INFO - Horizon 1 month: mae: 89.9317, mape: 0.5926, rmse: 165.3723
+2022-07-27 10:29:16,430 - __main__ - INFO - Epoch [73/200] (74) train_mae: 98.9124, test_loss: 90.9347, test_mae: 89.9317, test_mape: 0.5926, test_rmse: 165.3723, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,476 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,477 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,490 - __main__ - INFO - Epoch [74/200] (75) train_loss: 98.2868, val_loss: 79.5836, val_mae: 78.5911, val_mape: 0.6858, val_rmse: 124.3069, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,509 - __main__ - INFO - Test: loss: 91.5792, mae: 90.5867, mape: 0.5177, rmse: 165.4934
+2022-07-27 10:29:16,511 - __main__ - INFO - Horizon 1 month: mae: 90.5867, mape: 0.5177, rmse: 165.4934
+2022-07-27 10:29:16,518 - __main__ - INFO - Epoch [74/200] (75) train_mae: 98.2868, test_loss: 91.5792, test_mae: 90.5867, test_mape: 0.5177, test_rmse: 165.4934, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,561 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,562 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,575 - __main__ - INFO - Epoch [75/200] (76) train_loss: 97.8738, val_loss: 84.6674, val_mae: 83.6834, val_mape: 0.5402, val_rmse: 132.2986, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,591 - __main__ - INFO - Test: loss: 96.7397, mae: 95.7557, mape: 0.5463, rmse: 165.2040
+2022-07-27 10:29:16,592 - __main__ - INFO - Horizon 1 month: mae: 95.7557, mape: 0.5463, rmse: 165.2040
+2022-07-27 10:29:16,593 - __main__ - INFO - Epoch [75/200] (76) train_mae: 97.8738, test_loss: 96.7397, test_mae: 95.7557, test_mape: 0.5463, test_rmse: 165.2040, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,630 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,631 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,645 - __main__ - INFO - Epoch [76/200] (77) train_loss: 98.5964, val_loss: 84.6438, val_mae: 83.6679, val_mape: 0.4998, val_rmse: 134.7748, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:16,659 - __main__ - INFO - Test: loss: 99.3337, mae: 98.3579, mape: 0.5532, rmse: 163.8618
+2022-07-27 10:29:16,660 - __main__ - INFO - Horizon 1 month: mae: 98.3579, mape: 0.5532, rmse: 163.8618
+2022-07-27 10:29:16,662 - __main__ - INFO - Epoch [76/200] (77) train_mae: 98.5964, test_loss: 99.3337, test_mae: 98.3579, test_mape: 0.5532, test_rmse: 163.8618, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:16,704 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,705 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,720 - __main__ - INFO - Epoch [77/200] (78) train_loss: 102.3064, val_loss: 85.1062, val_mae: 84.1377, val_mape: 0.5450, val_rmse: 131.6935, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,735 - __main__ - INFO - Test: loss: 95.9392, mae: 94.9708, mape: 0.5316, rmse: 165.6160
+2022-07-27 10:29:16,737 - __main__ - INFO - Horizon 1 month: mae: 94.9708, mape: 0.5316, rmse: 165.6160
+2022-07-27 10:29:16,739 - __main__ - INFO - Epoch [77/200] (78) train_mae: 102.3064, test_loss: 95.9392, test_mae: 94.9708, test_mape: 0.5316, test_rmse: 165.6160, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,786 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,787 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,801 - __main__ - INFO - Epoch [78/200] (79) train_loss: 99.5880, val_loss: 81.5501, val_mae: 80.5862, val_mape: 0.5826, val_rmse: 126.9442, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,824 - __main__ - INFO - Test: loss: 92.6106, mae: 91.6467, mape: 0.5003, rmse: 164.4861
+2022-07-27 10:29:16,825 - __main__ - INFO - Horizon 1 month: mae: 91.6467, mape: 0.5003, rmse: 164.4861
+2022-07-27 10:29:16,826 - __main__ - INFO - Epoch [78/200] (79) train_mae: 99.5880, test_loss: 92.6106, test_mae: 91.6467, test_mape: 0.5003, test_rmse: 164.4861, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,871 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,873 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,885 - __main__ - INFO - Epoch [79/200] (80) train_loss: 98.4347, val_loss: 81.5961, val_mae: 80.6248, val_mape: 0.6733, val_rmse: 125.9139, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,903 - __main__ - INFO - Test: loss: 90.7503, mae: 89.7790, mape: 0.5435, rmse: 163.6140
+2022-07-27 10:29:16,904 - __main__ - INFO - Horizon 1 month: mae: 89.7790, mape: 0.5435, rmse: 163.6140
+2022-07-27 10:29:16,906 - __main__ - INFO - Epoch [79/200] (80) train_mae: 98.4347, test_loss: 90.7503, test_mae: 89.7790, test_mape: 0.5435, test_rmse: 163.6140, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,943 - __main__ - INFO - epoch complete
+2022-07-27 10:29:16,944 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:16,961 - __main__ - INFO - Epoch [80/200] (81) train_loss: 96.2150, val_loss: 82.2367, val_mae: 81.2555, val_mape: 0.7315, val_rmse: 126.5957, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:16,977 - __main__ - INFO - Test: loss: 92.5942, mae: 91.6130, mape: 0.5631, rmse: 164.5267
+2022-07-27 10:29:16,979 - __main__ - INFO - Horizon 1 month: mae: 91.6130, mape: 0.5631, rmse: 164.5267
+2022-07-27 10:29:16,980 - __main__ - INFO - Epoch [80/200] (81) train_mae: 96.2150, test_loss: 92.5942, test_mae: 91.6130, test_mape: 0.5631, test_rmse: 164.5267, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,018 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,019 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,039 - __main__ - INFO - Epoch [81/200] (82) train_loss: 96.7151, val_loss: 84.6217, val_mae: 83.6262, val_mape: 0.7002, val_rmse: 132.1524, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,068 - __main__ - INFO - Test: loss: 93.1492, mae: 92.1536, mape: 0.5281, rmse: 163.9943
+2022-07-27 10:29:17,070 - __main__ - INFO - Horizon 1 month: mae: 92.1536, mape: 0.5281, rmse: 163.9943
+2022-07-27 10:29:17,073 - __main__ - INFO - Epoch [81/200] (82) train_mae: 96.7151, test_loss: 93.1492, test_mae: 92.1536, test_mape: 0.5281, test_rmse: 163.9943, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,114 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,115 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,127 - __main__ - INFO - Epoch [82/200] (83) train_loss: 95.9223, val_loss: 85.3820, val_mae: 84.3782, val_mape: 0.5972, val_rmse: 133.8471, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,143 - __main__ - INFO - Test: loss: 91.5899, mae: 90.5860, mape: 0.4953, rmse: 160.5781
+2022-07-27 10:29:17,143 - __main__ - INFO - Horizon 1 month: mae: 90.5860, mape: 0.4953, rmse: 160.5781
+2022-07-27 10:29:17,144 - __main__ - INFO - Epoch [82/200] (83) train_mae: 95.9223, test_loss: 91.5899, test_mae: 90.5860, test_mape: 0.4953, test_rmse: 160.5781, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,185 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,186 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,202 - __main__ - INFO - Epoch [83/200] (84) train_loss: 95.5946, val_loss: 81.8118, val_mae: 80.7930, val_mape: 0.5932, val_rmse: 126.8617, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,216 - __main__ - INFO - Test: loss: 91.7098, mae: 90.6910, mape: 0.4798, rmse: 162.5487
+2022-07-27 10:29:17,217 - __main__ - INFO - Horizon 1 month: mae: 90.6910, mape: 0.4798, rmse: 162.5487
+2022-07-27 10:29:17,218 - __main__ - INFO - Epoch [83/200] (84) train_mae: 95.5946, test_loss: 91.7098, test_mae: 90.6910, test_mape: 0.4798, test_rmse: 162.5487, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,259 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,260 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,271 - __main__ - INFO - Epoch [84/200] (85) train_loss: 96.0773, val_loss: 82.6574, val_mae: 81.6340, val_mape: 0.6415, val_rmse: 125.6513, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,287 - __main__ - INFO - Test: loss: 90.2718, mae: 89.2484, mape: 0.4937, rmse: 162.5247
+2022-07-27 10:29:17,289 - __main__ - INFO - Horizon 1 month: mae: 89.2484, mape: 0.4937, rmse: 162.5247
+2022-07-27 10:29:17,289 - __main__ - INFO - Epoch [84/200] (85) train_mae: 96.0773, test_loss: 90.2718, test_mae: 89.2484, test_mape: 0.4937, test_rmse: 162.5247, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,340 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,341 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,358 - __main__ - INFO - Epoch [85/200] (86) train_loss: 96.2583, val_loss: 83.0771, val_mae: 82.0581, val_mape: 0.6448, val_rmse: 129.5699, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:17,374 - __main__ - INFO - Test: loss: 93.4075, mae: 92.3885, mape: 0.5025, rmse: 163.0378
+2022-07-27 10:29:17,375 - __main__ - INFO - Horizon 1 month: mae: 92.3885, mape: 0.5025, rmse: 163.0378
+2022-07-27 10:29:17,377 - __main__ - INFO - Epoch [85/200] (86) train_mae: 96.2583, test_loss: 93.4075, test_mae: 92.3885, test_mape: 0.5025, test_rmse: 163.0378, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:17,414 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,415 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,429 - __main__ - INFO - Epoch [86/200] (87) train_loss: 97.3608, val_loss: 81.5544, val_mae: 80.5465, val_mape: 0.6354, val_rmse: 129.4248, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,443 - __main__ - INFO - Test: loss: 92.3256, mae: 91.3176, mape: 0.5138, rmse: 161.9886
+2022-07-27 10:29:17,445 - __main__ - INFO - Horizon 1 month: mae: 91.3176, mape: 0.5138, rmse: 161.9886
+2022-07-27 10:29:17,446 - __main__ - INFO - Epoch [86/200] (87) train_mae: 97.3608, test_loss: 92.3256, test_mae: 91.3176, test_mape: 0.5138, test_rmse: 161.9886, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,486 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,487 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,501 - __main__ - INFO - Epoch [87/200] (88) train_loss: 96.8660, val_loss: 83.4803, val_mae: 82.4886, val_mape: 0.7375, val_rmse: 126.5489, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,516 - __main__ - INFO - Test: loss: 92.2630, mae: 91.2713, mape: 0.5287, rmse: 164.9935
+2022-07-27 10:29:17,517 - __main__ - INFO - Horizon 1 month: mae: 91.2713, mape: 0.5287, rmse: 164.9935
+2022-07-27 10:29:17,519 - __main__ - INFO - Epoch [87/200] (88) train_mae: 96.8660, test_loss: 92.2630, test_mae: 91.2713, test_mape: 0.5287, test_rmse: 164.9935, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,559 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,560 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,574 - __main__ - INFO - Epoch [88/200] (89) train_loss: 98.9088, val_loss: 82.2751, val_mae: 81.2796, val_mape: 0.6921, val_rmse: 127.1281, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,588 - __main__ - INFO - Test: loss: 93.2870, mae: 92.2916, mape: 0.5200, rmse: 165.1946
+2022-07-27 10:29:17,590 - __main__ - INFO - Horizon 1 month: mae: 92.2916, mape: 0.5200, rmse: 165.1946
+2022-07-27 10:29:17,592 - __main__ - INFO - Epoch [88/200] (89) train_mae: 98.9088, test_loss: 93.2870, test_mae: 92.2916, test_mape: 0.5200, test_rmse: 165.1946, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,627 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,629 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,641 - __main__ - INFO - Epoch [89/200] (90) train_loss: 98.4615, val_loss: 81.6107, val_mae: 80.6147, val_mape: 0.5852, val_rmse: 128.9225, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:17,656 - __main__ - INFO - Test: loss: 93.6501, mae: 92.6541, mape: 0.4933, rmse: 165.4808
+2022-07-27 10:29:17,656 - __main__ - INFO - Horizon 1 month: mae: 92.6541, mape: 0.4933, rmse: 165.4808
+2022-07-27 10:29:17,657 - __main__ - INFO - Epoch [89/200] (90) train_mae: 98.4615, test_loss: 93.6501, test_mae: 92.6541, test_mape: 0.4933, test_rmse: 165.4808, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:17,694 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,695 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,709 - __main__ - INFO - Epoch [90/200] (91) train_loss: 96.3373, val_loss: 78.4170, val_mae: 77.4250, val_mape: 0.5881, val_rmse: 122.4483, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,724 - __main__ - INFO - Test: loss: 89.5544, mae: 88.5624, mape: 0.4876, rmse: 161.2671
+2022-07-27 10:29:17,726 - __main__ - INFO - Horizon 1 month: mae: 88.5624, mape: 0.4876, rmse: 161.2671
+2022-07-27 10:29:17,727 - __main__ - INFO - Epoch [90/200] (91) train_mae: 96.3373, test_loss: 89.5544, test_mae: 88.5624, test_mape: 0.4876, test_rmse: 161.2671, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,762 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,763 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,777 - __main__ - INFO - Epoch [91/200] (92) train_loss: 94.8892, val_loss: 80.0523, val_mae: 79.0752, val_mape: 0.6506, val_rmse: 123.0025, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:17,793 - __main__ - INFO - Test: loss: 89.1360, mae: 88.1590, mape: 0.5043, rmse: 162.8702
+2022-07-27 10:29:17,795 - __main__ - INFO - Horizon 1 month: mae: 88.1590, mape: 0.5043, rmse: 162.8702
+2022-07-27 10:29:17,796 - __main__ - INFO - Epoch [91/200] (92) train_mae: 94.8892, test_loss: 89.1360, test_mae: 88.1590, test_mape: 0.5043, test_rmse: 162.8702, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:17,835 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,837 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,850 - __main__ - INFO - Epoch [92/200] (93) train_loss: 95.9878, val_loss: 80.2136, val_mae: 79.2418, val_mape: 0.6395, val_rmse: 125.1863, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,867 - __main__ - INFO - Test: loss: 90.9124, mae: 89.9406, mape: 0.5296, rmse: 157.7870
+2022-07-27 10:29:17,868 - __main__ - INFO - Horizon 1 month: mae: 89.9406, mape: 0.5296, rmse: 157.7870
+2022-07-27 10:29:17,869 - __main__ - INFO - Epoch [92/200] (93) train_mae: 95.9878, test_loss: 90.9124, test_mae: 89.9406, test_mape: 0.5296, test_rmse: 157.7870, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,914 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,915 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:17,931 - __main__ - INFO - Epoch [93/200] (94) train_loss: 95.5382, val_loss: 102.3507, val_mae: 101.3753, val_mape: 0.7231, val_rmse: 163.2726, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,946 - __main__ - INFO - Test: loss: 94.7794, mae: 93.8040, mape: 0.5185, rmse: 163.9357
+2022-07-27 10:29:17,948 - __main__ - INFO - Horizon 1 month: mae: 93.8040, mape: 0.5185, rmse: 163.9357
+2022-07-27 10:29:17,949 - __main__ - INFO - Epoch [93/200] (94) train_mae: 95.5382, test_loss: 94.7794, test_mae: 93.8040, test_mape: 0.5185, test_rmse: 163.9357, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:17,985 - __main__ - INFO - epoch complete
+2022-07-27 10:29:17,987 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,008 - __main__ - INFO - Epoch [94/200] (95) train_loss: 101.0345, val_loss: 101.0337, val_mae: 100.0575, val_mape: 0.6879, val_rmse: 167.9359, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,026 - __main__ - INFO - Test: loss: 99.8220, mae: 98.8458, mape: 0.5713, rmse: 166.9392
+2022-07-27 10:29:18,026 - __main__ - INFO - Horizon 1 month: mae: 98.8458, mape: 0.5713, rmse: 166.9392
+2022-07-27 10:29:18,027 - __main__ - INFO - Epoch [94/200] (95) train_mae: 101.0345, test_loss: 99.8220, test_mae: 98.8458, test_mape: 0.5713, test_rmse: 166.9392, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,083 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,085 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,100 - __main__ - INFO - Epoch [95/200] (96) train_loss: 99.4982, val_loss: 95.0639, val_mae: 94.0934, val_mape: 0.6962, val_rmse: 151.5355, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:18,116 - __main__ - INFO - Test: loss: 92.9205, mae: 91.9500, mape: 0.5478, rmse: 159.6362
+2022-07-27 10:29:18,117 - __main__ - INFO - Horizon 1 month: mae: 91.9500, mape: 0.5478, rmse: 159.6362
+2022-07-27 10:29:18,119 - __main__ - INFO - Epoch [95/200] (96) train_mae: 99.4982, test_loss: 92.9205, test_mae: 91.9500, test_mape: 0.5478, test_rmse: 159.6362, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:18,161 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,162 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,177 - __main__ - INFO - Epoch [96/200] (97) train_loss: 96.1421, val_loss: 80.0012, val_mae: 79.0366, val_mape: 0.7319, val_rmse: 121.1145, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,198 - __main__ - INFO - Test: loss: 86.3457, mae: 85.3811, mape: 0.5293, rmse: 158.7563
+2022-07-27 10:29:18,200 - __main__ - INFO - Horizon 1 month: mae: 85.3811, mape: 0.5293, rmse: 158.7563
+2022-07-27 10:29:18,202 - __main__ - INFO - Epoch [96/200] (97) train_mae: 96.1421, test_loss: 86.3457, test_mae: 85.3811, test_mape: 0.5293, test_rmse: 158.7563, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,257 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,258 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,284 - __main__ - INFO - Epoch [97/200] (98) train_loss: 97.0066, val_loss: 81.8510, val_mae: 80.8835, val_mape: 0.7025, val_rmse: 120.3417, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:18,312 - __main__ - INFO - Test: loss: 89.9357, mae: 88.9683, mape: 0.5226, rmse: 167.4019
+2022-07-27 10:29:18,314 - __main__ - INFO - Horizon 1 month: mae: 88.9683, mape: 0.5226, rmse: 167.4019
+2022-07-27 10:29:18,316 - __main__ - INFO - Epoch [97/200] (98) train_mae: 97.0066, test_loss: 89.9357, test_mae: 88.9683, test_mape: 0.5226, test_rmse: 167.4019, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:18,368 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,369 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,384 - __main__ - INFO - Epoch [98/200] (99) train_loss: 101.4383, val_loss: 80.6472, val_mae: 79.6702, val_mape: 0.5454, val_rmse: 125.5137, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:18,402 - __main__ - INFO - Test: loss: 87.9315, mae: 86.9545, mape: 0.4686, rmse: 159.8102
+2022-07-27 10:29:18,403 - __main__ - INFO - Horizon 1 month: mae: 86.9545, mape: 0.4686, rmse: 159.8102
+2022-07-27 10:29:18,405 - __main__ - INFO - Epoch [98/200] (99) train_mae: 101.4383, test_loss: 87.9315, test_mae: 86.9545, test_mape: 0.4686, test_rmse: 159.8102, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:18,446 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,447 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,463 - __main__ - INFO - Epoch [99/200] (100) train_loss: 94.9441, val_loss: 89.2926, val_mae: 88.3048, val_mape: 0.5621, val_rmse: 147.2223, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,478 - __main__ - INFO - Test: loss: 96.0621, mae: 95.0744, mape: 0.4942, rmse: 162.6568
+2022-07-27 10:29:18,479 - __main__ - INFO - Horizon 1 month: mae: 95.0744, mape: 0.4942, rmse: 162.6568
+2022-07-27 10:29:18,480 - __main__ - INFO - Epoch [99/200] (100) train_mae: 94.9441, test_loss: 96.0621, test_mae: 95.0744, test_mape: 0.4942, test_rmse: 162.6568, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,523 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,524 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,540 - __main__ - INFO - Epoch [100/200] (101) train_loss: 97.0448, val_loss: 97.4450, val_mae: 96.4528, val_mape: 0.6773, val_rmse: 153.7021, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,560 - __main__ - INFO - Test: loss: 97.6288, mae: 96.6366, mape: 0.5072, rmse: 164.4189
+2022-07-27 10:29:18,561 - __main__ - INFO - Horizon 1 month: mae: 96.6366, mape: 0.5072, rmse: 164.4189
+2022-07-27 10:29:18,563 - __main__ - INFO - Epoch [100/200] (101) train_mae: 97.0448, test_loss: 97.6288, test_mae: 96.6366, test_mape: 0.5072, test_rmse: 164.4189, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,614 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,615 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,635 - __main__ - INFO - Epoch [101/200] (102) train_loss: 96.3556, val_loss: 90.1148, val_mae: 89.1256, val_mape: 0.7162, val_rmse: 143.7670, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:18,658 - __main__ - INFO - Test: loss: 95.9155, mae: 94.9263, mape: 0.5789, rmse: 165.1107
+2022-07-27 10:29:18,659 - __main__ - INFO - Horizon 1 month: mae: 94.9263, mape: 0.5789, rmse: 165.1107
+2022-07-27 10:29:18,661 - __main__ - INFO - Epoch [101/200] (102) train_mae: 96.3556, test_loss: 95.9155, test_mae: 94.9263, test_mape: 0.5789, test_rmse: 165.1107, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:18,707 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,709 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,724 - __main__ - INFO - Epoch [102/200] (103) train_loss: 95.0660, val_loss: 83.4926, val_mae: 82.5121, val_mape: 0.7063, val_rmse: 130.0009, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,740 - __main__ - INFO - Test: loss: 91.3994, mae: 90.4189, mape: 0.5620, rmse: 165.4210
+2022-07-27 10:29:18,741 - __main__ - INFO - Horizon 1 month: mae: 90.4189, mape: 0.5620, rmse: 165.4210
+2022-07-27 10:29:18,743 - __main__ - INFO - Epoch [102/200] (103) train_mae: 95.0660, test_loss: 91.3994, test_mae: 90.4189, test_mape: 0.5620, test_rmse: 165.4210, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,784 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,786 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,801 - __main__ - INFO - Epoch [103/200] (104) train_loss: 95.6821, val_loss: 82.0985, val_mae: 81.1205, val_mape: 0.6874, val_rmse: 124.2501, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,816 - __main__ - INFO - Test: loss: 87.4609, mae: 86.4829, mape: 0.4815, rmse: 158.4199
+2022-07-27 10:29:18,817 - __main__ - INFO - Horizon 1 month: mae: 86.4829, mape: 0.4815, rmse: 158.4199
+2022-07-27 10:29:18,818 - __main__ - INFO - Epoch [103/200] (104) train_mae: 95.6821, test_loss: 87.4609, test_mae: 86.4829, test_mape: 0.4815, test_rmse: 158.4199, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,862 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,864 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,884 - __main__ - INFO - Epoch [104/200] (105) train_loss: 94.7291, val_loss: 89.8621, val_mae: 88.8782, val_mape: 0.5970, val_rmse: 141.1127, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,903 - __main__ - INFO - Test: loss: 93.4462, mae: 92.4622, mape: 0.4977, rmse: 159.4694
+2022-07-27 10:29:18,904 - __main__ - INFO - Horizon 1 month: mae: 92.4622, mape: 0.4977, rmse: 159.4694
+2022-07-27 10:29:18,905 - __main__ - INFO - Epoch [104/200] (105) train_mae: 94.7291, test_loss: 93.4462, test_mae: 92.4622, test_mape: 0.4977, test_rmse: 159.4694, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,946 - __main__ - INFO - epoch complete
+2022-07-27 10:29:18,947 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:18,965 - __main__ - INFO - Epoch [105/200] (106) train_loss: 95.4500, val_loss: 88.6567, val_mae: 87.6636, val_mape: 0.5575, val_rmse: 144.5217, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:18,985 - __main__ - INFO - Test: loss: 97.2486, mae: 96.2555, mape: 0.5135, rmse: 162.7382
+2022-07-27 10:29:18,987 - __main__ - INFO - Horizon 1 month: mae: 96.2555, mape: 0.5135, rmse: 162.7382
+2022-07-27 10:29:18,989 - __main__ - INFO - Epoch [105/200] (106) train_mae: 95.4500, test_loss: 97.2486, test_mae: 96.2555, test_mape: 0.5135, test_rmse: 162.7382, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,037 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,038 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,052 - __main__ - INFO - Epoch [106/200] (107) train_loss: 94.2699, val_loss: 84.4757, val_mae: 83.4780, val_mape: 0.5948, val_rmse: 137.1908, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:19,070 - __main__ - INFO - Test: loss: 92.9371, mae: 91.9395, mape: 0.5190, rmse: 158.5009
+2022-07-27 10:29:19,071 - __main__ - INFO - Horizon 1 month: mae: 91.9395, mape: 0.5190, rmse: 158.5009
+2022-07-27 10:29:19,072 - __main__ - INFO - Epoch [106/200] (107) train_mae: 94.2699, test_loss: 92.9371, test_mae: 91.9395, test_mape: 0.5190, test_rmse: 158.5009, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:19,123 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,125 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,139 - __main__ - INFO - Epoch [107/200] (108) train_loss: 92.1733, val_loss: 79.0842, val_mae: 78.0937, val_mape: 0.7468, val_rmse: 119.8883, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:19,153 - __main__ - INFO - Test: loss: 88.8320, mae: 87.8416, mape: 0.5612, rmse: 164.8564
+2022-07-27 10:29:19,156 - __main__ - INFO - Horizon 1 month: mae: 87.8416, mape: 0.5612, rmse: 164.8564
+2022-07-27 10:29:19,158 - __main__ - INFO - Epoch [107/200] (108) train_mae: 92.1733, test_loss: 88.8320, test_mae: 87.8416, test_mape: 0.5612, test_rmse: 164.8564, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:19,203 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,205 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,222 - __main__ - INFO - Epoch [108/200] (109) train_loss: 97.5138, val_loss: 82.1815, val_mae: 81.1985, val_mape: 0.8153, val_rmse: 123.6726, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,236 - __main__ - INFO - Test: loss: 88.8897, mae: 87.9067, mape: 0.5547, rmse: 169.9141
+2022-07-27 10:29:19,238 - __main__ - INFO - Horizon 1 month: mae: 87.9067, mape: 0.5547, rmse: 169.9141
+2022-07-27 10:29:19,239 - __main__ - INFO - Epoch [108/200] (109) train_mae: 97.5138, test_loss: 88.8897, test_mae: 87.9067, test_mape: 0.5547, test_rmse: 169.9141, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,277 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,278 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,293 - __main__ - INFO - Epoch [109/200] (110) train_loss: 98.9274, val_loss: 83.2515, val_mae: 82.2765, val_mape: 0.7421, val_rmse: 122.4822, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,315 - __main__ - INFO - Test: loss: 88.4258, mae: 87.4508, mape: 0.5159, rmse: 160.9872
+2022-07-27 10:29:19,317 - __main__ - INFO - Horizon 1 month: mae: 87.4508, mape: 0.5159, rmse: 160.9872
+2022-07-27 10:29:19,319 - __main__ - INFO - Epoch [109/200] (110) train_mae: 98.9274, test_loss: 88.4258, test_mae: 87.4508, test_mape: 0.5159, test_rmse: 160.9872, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,360 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,361 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,380 - __main__ - INFO - Epoch [110/200] (111) train_loss: 92.9103, val_loss: 88.9272, val_mae: 87.9602, val_mape: 0.5818, val_rmse: 139.8784, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,395 - __main__ - INFO - Test: loss: 92.7273, mae: 91.7604, mape: 0.4741, rmse: 158.1319
+2022-07-27 10:29:19,396 - __main__ - INFO - Horizon 1 month: mae: 91.7604, mape: 0.4741, rmse: 158.1319
+2022-07-27 10:29:19,398 - __main__ - INFO - Epoch [110/200] (111) train_mae: 92.9103, test_loss: 92.7273, test_mae: 91.7604, test_mape: 0.4741, test_rmse: 158.1319, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,437 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,439 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,450 - __main__ - INFO - Epoch [111/200] (112) train_loss: 93.0690, val_loss: 94.3555, val_mae: 93.3948, val_mape: 0.5542, val_rmse: 154.6703, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:19,466 - __main__ - INFO - Test: loss: 101.1715, mae: 100.2108, mape: 0.5036, rmse: 168.1457
+2022-07-27 10:29:19,467 - __main__ - INFO - Horizon 1 month: mae: 100.2108, mape: 0.5036, rmse: 168.1457
+2022-07-27 10:29:19,468 - __main__ - INFO - Epoch [111/200] (112) train_mae: 93.0690, test_loss: 101.1715, test_mae: 100.2108, test_mape: 0.5036, test_rmse: 168.1457, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:19,510 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,511 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,533 - __main__ - INFO - Epoch [112/200] (113) train_loss: 97.3590, val_loss: 91.4240, val_mae: 90.4674, val_mape: 0.5538, val_rmse: 149.7503, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,548 - __main__ - INFO - Test: loss: 96.1118, mae: 95.1553, mape: 0.4680, rmse: 162.7721
+2022-07-27 10:29:19,549 - __main__ - INFO - Horizon 1 month: mae: 95.1553, mape: 0.4680, rmse: 162.7721
+2022-07-27 10:29:19,550 - __main__ - INFO - Epoch [112/200] (113) train_mae: 97.3590, test_loss: 96.1118, test_mae: 95.1553, test_mape: 0.4680, test_rmse: 162.7721, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,593 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,595 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,612 - __main__ - INFO - Epoch [113/200] (114) train_loss: 94.1896, val_loss: 85.5254, val_mae: 84.5689, val_mape: 0.7394, val_rmse: 131.7566, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,631 - __main__ - INFO - Test: loss: 89.6402, mae: 88.6837, mape: 0.5178, rmse: 155.5525
+2022-07-27 10:29:19,632 - __main__ - INFO - Horizon 1 month: mae: 88.6837, mape: 0.5178, rmse: 155.5525
+2022-07-27 10:29:19,634 - __main__ - INFO - Epoch [113/200] (114) train_mae: 94.1896, test_loss: 89.6402, test_mae: 88.6837, test_mape: 0.5178, test_rmse: 155.5525, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,671 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,672 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,687 - __main__ - INFO - Epoch [114/200] (115) train_loss: 92.1892, val_loss: 84.8240, val_mae: 83.8568, val_mape: 0.8350, val_rmse: 126.8220, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,699 - __main__ - INFO - Test: loss: 91.5291, mae: 90.5620, mape: 0.6305, rmse: 162.3545
+2022-07-27 10:29:19,701 - __main__ - INFO - Horizon 1 month: mae: 90.5620, mape: 0.6305, rmse: 162.3545
+2022-07-27 10:29:19,703 - __main__ - INFO - Epoch [114/200] (115) train_mae: 92.1892, test_loss: 91.5291, test_mae: 90.5620, test_mape: 0.6305, test_rmse: 162.3545, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,749 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,751 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,764 - __main__ - INFO - Epoch [115/200] (116) train_loss: 98.3337, val_loss: 90.5934, val_mae: 89.6222, val_mape: 0.9767, val_rmse: 135.9855, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,778 - __main__ - INFO - Test: loss: 95.7845, mae: 94.8133, mape: 0.6785, rmse: 168.2375
+2022-07-27 10:29:19,779 - __main__ - INFO - Horizon 1 month: mae: 94.8133, mape: 0.6785, rmse: 168.2375
+2022-07-27 10:29:19,780 - __main__ - INFO - Epoch [115/200] (116) train_mae: 98.3337, test_loss: 95.7845, test_mae: 94.8133, test_mape: 0.6785, test_rmse: 168.2375, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,820 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,822 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,839 - __main__ - INFO - Epoch [116/200] (117) train_loss: 99.2765, val_loss: 93.5092, val_mae: 92.5378, val_mape: 0.9461, val_rmse: 142.7703, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,859 - __main__ - INFO - Test: loss: 98.3686, mae: 97.3972, mape: 0.6767, rmse: 163.4434
+2022-07-27 10:29:19,860 - __main__ - INFO - Horizon 1 month: mae: 97.3972, mape: 0.6767, rmse: 163.4434
+2022-07-27 10:29:19,861 - __main__ - INFO - Epoch [116/200] (117) train_mae: 99.2765, test_loss: 98.3686, test_mae: 97.3972, test_mape: 0.6767, test_rmse: 163.4434, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,903 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,904 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,920 - __main__ - INFO - Epoch [117/200] (118) train_loss: 99.8925, val_loss: 95.7967, val_mae: 94.8283, val_mape: 0.8113, val_rmse: 153.6270, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,939 - __main__ - INFO - Test: loss: 94.8048, mae: 93.8364, mape: 0.5859, rmse: 158.9929
+2022-07-27 10:29:19,940 - __main__ - INFO - Horizon 1 month: mae: 93.8364, mape: 0.5859, rmse: 158.9929
+2022-07-27 10:29:19,942 - __main__ - INFO - Epoch [117/200] (118) train_mae: 99.8925, test_loss: 94.8048, test_mae: 93.8364, test_mape: 0.5859, test_rmse: 158.9929, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:19,981 - __main__ - INFO - epoch complete
+2022-07-27 10:29:19,982 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:19,995 - __main__ - INFO - Epoch [118/200] (119) train_loss: 98.1024, val_loss: 89.2327, val_mae: 88.2715, val_mape: 0.6590, val_rmse: 145.8564, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,012 - __main__ - INFO - Test: loss: 97.5209, mae: 96.5597, mape: 0.5329, rmse: 163.7407
+2022-07-27 10:29:20,013 - __main__ - INFO - Horizon 1 month: mae: 96.5597, mape: 0.5329, rmse: 163.7407
+2022-07-27 10:29:20,015 - __main__ - INFO - Epoch [118/200] (119) train_mae: 98.1024, test_loss: 97.5209, test_mae: 96.5597, test_mape: 0.5329, test_rmse: 163.7407, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,057 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,059 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,074 - __main__ - INFO - Epoch [119/200] (120) train_loss: 93.9011, val_loss: 81.5863, val_mae: 80.6354, val_mape: 0.6293, val_rmse: 121.9239, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,089 - __main__ - INFO - Test: loss: 93.7864, mae: 92.8355, mape: 0.4709, rmse: 159.3715
+2022-07-27 10:29:20,091 - __main__ - INFO - Horizon 1 month: mae: 92.8355, mape: 0.4709, rmse: 159.3715
+2022-07-27 10:29:20,092 - __main__ - INFO - Epoch [119/200] (120) train_mae: 93.9011, test_loss: 93.7864, test_mae: 92.8355, test_mape: 0.4709, test_rmse: 159.3715, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,130 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,131 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,149 - __main__ - INFO - Epoch [120/200] (121) train_loss: 93.8848, val_loss: 77.6582, val_mae: 76.7097, val_mape: 0.6266, val_rmse: 117.1351, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,165 - __main__ - INFO - Test: loss: 95.3402, mae: 94.3917, mape: 0.4818, rmse: 167.2883
+2022-07-27 10:29:20,168 - __main__ - INFO - Horizon 1 month: mae: 94.3917, mape: 0.4818, rmse: 167.2883
+2022-07-27 10:29:20,170 - __main__ - INFO - Epoch [120/200] (121) train_mae: 93.8848, test_loss: 95.3402, test_mae: 94.3917, test_mape: 0.4818, test_rmse: 167.2883, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,212 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,213 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,227 - __main__ - INFO - Epoch [121/200] (122) train_loss: 99.1949, val_loss: 76.2779, val_mae: 75.3233, val_mape: 0.5327, val_rmse: 116.1937, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,245 - __main__ - INFO - Test: loss: 90.7258, mae: 89.7712, mape: 0.4535, rmse: 162.5180
+2022-07-27 10:29:20,247 - __main__ - INFO - Horizon 1 month: mae: 89.7712, mape: 0.4535, rmse: 162.5180
+2022-07-27 10:29:20,248 - __main__ - INFO - Epoch [121/200] (122) train_mae: 99.1949, test_loss: 90.7258, test_mae: 89.7712, test_mape: 0.4535, test_rmse: 162.5180, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,288 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,289 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,303 - __main__ - INFO - Epoch [122/200] (123) train_loss: 96.7650, val_loss: 80.5641, val_mae: 79.6025, val_mape: 0.5448, val_rmse: 127.8713, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,319 - __main__ - INFO - Test: loss: 89.9865, mae: 89.0249, mape: 0.4765, rmse: 152.6321
+2022-07-27 10:29:20,320 - __main__ - INFO - Horizon 1 month: mae: 89.0249, mape: 0.4765, rmse: 152.6321
+2022-07-27 10:29:20,321 - __main__ - INFO - Epoch [122/200] (123) train_mae: 96.7650, test_loss: 89.9865, test_mae: 89.0249, test_mape: 0.4765, test_rmse: 152.6321, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,357 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,359 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,373 - __main__ - INFO - Epoch [123/200] (124) train_loss: 92.9378, val_loss: 92.4885, val_mae: 91.5157, val_mape: 0.6831, val_rmse: 146.6710, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:20,389 - __main__ - INFO - Test: loss: 94.0976, mae: 93.1247, mape: 0.5473, rmse: 159.3211
+2022-07-27 10:29:20,390 - __main__ - INFO - Horizon 1 month: mae: 93.1247, mape: 0.5473, rmse: 159.3211
+2022-07-27 10:29:20,391 - __main__ - INFO - Epoch [123/200] (124) train_mae: 92.9378, test_loss: 94.0976, test_mae: 93.1247, test_mape: 0.5473, test_rmse: 159.3211, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:20,429 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,430 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,446 - __main__ - INFO - Epoch [124/200] (125) train_loss: 93.5414, val_loss: 95.5872, val_mae: 94.6099, val_mape: 0.8038, val_rmse: 152.2089, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,460 - __main__ - INFO - Test: loss: 93.2377, mae: 92.2605, mape: 0.5958, rmse: 156.0777
+2022-07-27 10:29:20,461 - __main__ - INFO - Horizon 1 month: mae: 92.2605, mape: 0.5958, rmse: 156.0777
+2022-07-27 10:29:20,463 - __main__ - INFO - Epoch [124/200] (125) train_mae: 93.5414, test_loss: 93.2377, test_mae: 92.2605, test_mape: 0.5958, test_rmse: 156.0777, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,508 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,509 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,534 - __main__ - INFO - Epoch [125/200] (126) train_loss: 97.6968, val_loss: 89.7898, val_mae: 88.8124, val_mape: 0.8469, val_rmse: 138.2019, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,554 - __main__ - INFO - Test: loss: 89.5179, mae: 88.5405, mape: 0.6061, rmse: 155.6482
+2022-07-27 10:29:20,555 - __main__ - INFO - Horizon 1 month: mae: 88.5405, mape: 0.6061, rmse: 155.6482
+2022-07-27 10:29:20,558 - __main__ - INFO - Epoch [125/200] (126) train_mae: 97.6968, test_loss: 89.5179, test_mae: 88.5405, test_mape: 0.6061, test_rmse: 155.6482, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,611 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,612 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,634 - __main__ - INFO - Epoch [126/200] (127) train_loss: 97.9441, val_loss: 81.9553, val_mae: 80.9830, val_mape: 0.7904, val_rmse: 118.9526, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:20,650 - __main__ - INFO - Test: loss: 88.8960, mae: 87.9237, mape: 0.6100, rmse: 158.7451
+2022-07-27 10:29:20,652 - __main__ - INFO - Horizon 1 month: mae: 87.9237, mape: 0.6100, rmse: 158.7451
+2022-07-27 10:29:20,654 - __main__ - INFO - Epoch [126/200] (127) train_mae: 97.9441, test_loss: 88.8960, test_mae: 87.9237, test_mape: 0.6100, test_rmse: 158.7451, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:20,697 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,698 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,712 - __main__ - INFO - Epoch [127/200] (128) train_loss: 94.3999, val_loss: 76.7899, val_mae: 75.8263, val_mape: 0.6089, val_rmse: 117.0490, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,733 - __main__ - INFO - Test: loss: 85.6938, mae: 84.7302, mape: 0.4916, rmse: 155.6843
+2022-07-27 10:29:20,735 - __main__ - INFO - Horizon 1 month: mae: 84.7302, mape: 0.4916, rmse: 155.6843
+2022-07-27 10:29:20,737 - __main__ - INFO - Epoch [127/200] (128) train_mae: 94.3999, test_loss: 85.6938, test_mae: 84.7302, test_mape: 0.4916, test_rmse: 155.6843, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,784 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,786 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,800 - __main__ - INFO - Epoch [128/200] (129) train_loss: 92.0070, val_loss: 86.7206, val_mae: 85.7670, val_mape: 0.5575, val_rmse: 130.8784, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,815 - __main__ - INFO - Test: loss: 92.8942, mae: 91.9407, mape: 0.5062, rmse: 155.3826
+2022-07-27 10:29:20,816 - __main__ - INFO - Horizon 1 month: mae: 91.9407, mape: 0.5062, rmse: 155.3826
+2022-07-27 10:29:20,818 - __main__ - INFO - Epoch [128/200] (129) train_mae: 92.0070, test_loss: 92.8942, test_mae: 91.9407, test_mape: 0.5062, test_rmse: 155.3826, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,855 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,857 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,871 - __main__ - INFO - Epoch [129/200] (130) train_loss: 93.5250, val_loss: 93.4178, val_mae: 92.4712, val_mape: 0.5829, val_rmse: 145.4313, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:20,888 - __main__ - INFO - Test: loss: 92.1831, mae: 91.2364, mape: 0.4894, rmse: 156.6845
+2022-07-27 10:29:20,889 - __main__ - INFO - Horizon 1 month: mae: 91.2364, mape: 0.4894, rmse: 156.6845
+2022-07-27 10:29:20,890 - __main__ - INFO - Epoch [129/200] (130) train_mae: 93.5250, test_loss: 92.1831, test_mae: 91.2364, test_mape: 0.4894, test_rmse: 156.6845, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:20,936 - __main__ - INFO - epoch complete
+2022-07-27 10:29:20,937 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:20,955 - __main__ - INFO - Epoch [130/200] (131) train_loss: 94.2511, val_loss: 86.2763, val_mae: 85.3337, val_mape: 0.5556, val_rmse: 134.6989, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:20,970 - __main__ - INFO - Test: loss: 90.8452, mae: 89.9026, mape: 0.4814, rmse: 152.5977
+2022-07-27 10:29:20,971 - __main__ - INFO - Horizon 1 month: mae: 89.9026, mape: 0.4814, rmse: 152.5977
+2022-07-27 10:29:20,972 - __main__ - INFO - Epoch [130/200] (131) train_mae: 94.2511, test_loss: 90.8452, test_mae: 89.9026, test_mape: 0.4814, test_rmse: 152.5977, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,007 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,008 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,030 - __main__ - INFO - Epoch [131/200] (132) train_loss: 92.5450, val_loss: 87.6061, val_mae: 86.6617, val_mape: 0.7361, val_rmse: 133.4507, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,044 - __main__ - INFO - Test: loss: 89.0811, mae: 88.1367, mape: 0.5407, rmse: 159.6521
+2022-07-27 10:29:21,045 - __main__ - INFO - Horizon 1 month: mae: 88.1367, mape: 0.5407, rmse: 159.6521
+2022-07-27 10:29:21,047 - __main__ - INFO - Epoch [131/200] (132) train_mae: 92.5450, test_loss: 89.0811, test_mae: 88.1367, test_mape: 0.5407, test_rmse: 159.6521, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,086 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,086 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,104 - __main__ - INFO - Epoch [132/200] (133) train_loss: 91.6615, val_loss: 89.2952, val_mae: 88.3488, val_mape: 0.8163, val_rmse: 134.5722, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,120 - __main__ - INFO - Test: loss: 91.3407, mae: 90.3942, mape: 0.6305, rmse: 158.0940
+2022-07-27 10:29:21,122 - __main__ - INFO - Horizon 1 month: mae: 90.3942, mape: 0.6305, rmse: 158.0940
+2022-07-27 10:29:21,124 - __main__ - INFO - Epoch [132/200] (133) train_mae: 91.6615, test_loss: 91.3407, test_mae: 90.3942, test_mape: 0.6305, test_rmse: 158.0940, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,171 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,172 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,191 - __main__ - INFO - Epoch [133/200] (134) train_loss: 93.2929, val_loss: 85.5347, val_mae: 84.5878, val_mape: 0.7333, val_rmse: 133.4717, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,214 - __main__ - INFO - Test: loss: 90.9930, mae: 90.0460, mape: 0.5772, rmse: 156.8539
+2022-07-27 10:29:21,216 - __main__ - INFO - Horizon 1 month: mae: 90.0460, mape: 0.5772, rmse: 156.8539
+2022-07-27 10:29:21,217 - __main__ - INFO - Epoch [133/200] (134) train_mae: 93.2929, test_loss: 90.9930, test_mae: 90.0460, test_mape: 0.5772, test_rmse: 156.8539, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,259 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,260 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,275 - __main__ - INFO - Epoch [134/200] (135) train_loss: 92.9130, val_loss: 84.1678, val_mae: 83.2259, val_mape: 0.7161, val_rmse: 126.9965, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,290 - __main__ - INFO - Test: loss: 92.8031, mae: 91.8611, mape: 0.5346, rmse: 158.8388
+2022-07-27 10:29:21,295 - __main__ - INFO - Horizon 1 month: mae: 91.8611, mape: 0.5346, rmse: 158.8388
+2022-07-27 10:29:21,296 - __main__ - INFO - Epoch [134/200] (135) train_mae: 92.9130, test_loss: 92.8031, test_mae: 91.8611, test_mape: 0.5346, test_rmse: 158.8388, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,341 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,343 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,356 - __main__ - INFO - Epoch [135/200] (136) train_loss: 92.5880, val_loss: 84.6381, val_mae: 83.6857, val_mape: 0.5419, val_rmse: 129.5676, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,375 - __main__ - INFO - Test: loss: 93.5829, mae: 92.6305, mape: 0.4735, rmse: 160.0140
+2022-07-27 10:29:21,376 - __main__ - INFO - Horizon 1 month: mae: 92.6305, mape: 0.4735, rmse: 160.0140
+2022-07-27 10:29:21,377 - __main__ - INFO - Epoch [135/200] (136) train_mae: 92.5880, test_loss: 93.5829, test_mae: 92.6305, test_mape: 0.4735, test_rmse: 160.0140, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,417 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,420 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,439 - __main__ - INFO - Epoch [136/200] (137) train_loss: 91.6698, val_loss: 84.7192, val_mae: 83.7558, val_mape: 0.5025, val_rmse: 129.7070, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,455 - __main__ - INFO - Test: loss: 95.8911, mae: 94.9276, mape: 0.4806, rmse: 156.8860
+2022-07-27 10:29:21,457 - __main__ - INFO - Horizon 1 month: mae: 94.9276, mape: 0.4806, rmse: 156.8860
+2022-07-27 10:29:21,458 - __main__ - INFO - Epoch [136/200] (137) train_mae: 91.6698, test_loss: 95.8911, test_mae: 94.9276, test_mape: 0.4806, test_rmse: 156.8860, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,500 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,502 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,531 - __main__ - INFO - Epoch [137/200] (138) train_loss: 92.4672, val_loss: 91.9829, val_mae: 91.0109, val_mape: 0.5341, val_rmse: 146.1436, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,547 - __main__ - INFO - Test: loss: 92.8766, mae: 91.9046, mape: 0.4663, rmse: 153.6508
+2022-07-27 10:29:21,549 - __main__ - INFO - Horizon 1 month: mae: 91.9046, mape: 0.4663, rmse: 153.6508
+2022-07-27 10:29:21,550 - __main__ - INFO - Epoch [137/200] (138) train_mae: 92.4672, test_loss: 92.8766, test_mae: 91.9046, test_mape: 0.4663, test_rmse: 153.6508, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,596 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,597 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,611 - __main__ - INFO - Epoch [138/200] (139) train_loss: 92.0119, val_loss: 88.1977, val_mae: 87.2196, val_mape: 0.6164, val_rmse: 138.9948, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,627 - __main__ - INFO - Test: loss: 92.4817, mae: 91.5035, mape: 0.5141, rmse: 154.5368
+2022-07-27 10:29:21,628 - __main__ - INFO - Horizon 1 month: mae: 91.5035, mape: 0.5141, rmse: 154.5368
+2022-07-27 10:29:21,629 - __main__ - INFO - Epoch [138/200] (139) train_mae: 92.0119, test_loss: 92.4817, test_mae: 91.5035, test_mape: 0.5141, test_rmse: 154.5368, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,671 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,672 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,684 - __main__ - INFO - Epoch [139/200] (140) train_loss: 92.1785, val_loss: 85.4132, val_mae: 84.4363, val_mape: 0.7816, val_rmse: 125.8594, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,701 - __main__ - INFO - Test: loss: 90.6998, mae: 89.7228, mape: 0.5871, rmse: 155.6174
+2022-07-27 10:29:21,702 - __main__ - INFO - Horizon 1 month: mae: 89.7228, mape: 0.5871, rmse: 155.6174
+2022-07-27 10:29:21,704 - __main__ - INFO - Epoch [139/200] (140) train_mae: 92.1785, test_loss: 90.6998, test_mae: 89.7228, test_mape: 0.5871, test_rmse: 155.6174, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,744 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,745 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,758 - __main__ - INFO - Epoch [140/200] (141) train_loss: 93.2973, val_loss: 80.3416, val_mae: 79.3679, val_mape: 0.8242, val_rmse: 119.1461, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,773 - __main__ - INFO - Test: loss: 84.6264, mae: 83.6528, mape: 0.5793, rmse: 152.7773
+2022-07-27 10:29:21,774 - __main__ - INFO - Horizon 1 month: mae: 83.6528, mape: 0.5793, rmse: 152.7773
+2022-07-27 10:29:21,776 - __main__ - INFO - Epoch [140/200] (141) train_mae: 93.2973, test_loss: 84.6264, test_mae: 83.6528, test_mape: 0.5793, test_rmse: 152.7773, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,817 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,818 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,836 - __main__ - INFO - Epoch [141/200] (142) train_loss: 93.2106, val_loss: 82.6735, val_mae: 81.7049, val_mape: 0.7421, val_rmse: 123.8380, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,851 - __main__ - INFO - Test: loss: 86.8120, mae: 85.8434, mape: 0.5517, rmse: 151.1352
+2022-07-27 10:29:21,853 - __main__ - INFO - Horizon 1 month: mae: 85.8434, mape: 0.5517, rmse: 151.1352
+2022-07-27 10:29:21,854 - __main__ - INFO - Epoch [141/200] (142) train_mae: 93.2106, test_loss: 86.8120, test_mae: 85.8434, test_mape: 0.5517, test_rmse: 151.1352, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,893 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,895 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,908 - __main__ - INFO - Epoch [142/200] (143) train_loss: 91.7917, val_loss: 92.5336, val_mae: 91.5708, val_mape: 0.6022, val_rmse: 154.7529, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,925 - __main__ - INFO - Test: loss: 93.4474, mae: 92.4846, mape: 0.4867, rmse: 161.6025
+2022-07-27 10:29:21,925 - __main__ - INFO - Horizon 1 month: mae: 92.4846, mape: 0.4867, rmse: 161.6025
+2022-07-27 10:29:21,927 - __main__ - INFO - Epoch [142/200] (143) train_mae: 91.7917, test_loss: 93.4474, test_mae: 92.4846, test_mape: 0.4867, test_rmse: 161.6025, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:21,966 - __main__ - INFO - epoch complete
+2022-07-27 10:29:21,970 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:21,988 - __main__ - INFO - Epoch [143/200] (144) train_loss: 92.4805, val_loss: 94.2890, val_mae: 93.3344, val_mape: 0.5431, val_rmse: 162.1838, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,006 - __main__ - INFO - Test: loss: 96.2349, mae: 95.2803, mape: 0.4959, rmse: 162.4314
+2022-07-27 10:29:22,007 - __main__ - INFO - Horizon 1 month: mae: 95.2803, mape: 0.4959, rmse: 162.4314
+2022-07-27 10:29:22,009 - __main__ - INFO - Epoch [143/200] (144) train_mae: 92.4805, test_loss: 96.2349, test_mae: 95.2803, test_mape: 0.4959, test_rmse: 162.4314, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,052 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,053 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,067 - __main__ - INFO - Epoch [144/200] (145) train_loss: 95.1187, val_loss: 88.0435, val_mae: 87.0981, val_mape: 0.5741, val_rmse: 140.1051, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,081 - __main__ - INFO - Test: loss: 89.9500, mae: 89.0046, mape: 0.4522, rmse: 154.2710
+2022-07-27 10:29:22,082 - __main__ - INFO - Horizon 1 month: mae: 89.0046, mape: 0.4522, rmse: 154.2710
+2022-07-27 10:29:22,084 - __main__ - INFO - Epoch [144/200] (145) train_mae: 95.1187, test_loss: 89.9500, test_mae: 89.0046, test_mape: 0.4522, test_rmse: 154.2710, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,129 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,130 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,146 - __main__ - INFO - Epoch [145/200] (146) train_loss: 90.1770, val_loss: 77.6432, val_mae: 76.7086, val_mape: 0.6452, val_rmse: 113.2138, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,161 - __main__ - INFO - Test: loss: 87.4141, mae: 86.4795, mape: 0.5184, rmse: 158.4281
+2022-07-27 10:29:22,162 - __main__ - INFO - Horizon 1 month: mae: 86.4795, mape: 0.5184, rmse: 158.4281
+2022-07-27 10:29:22,163 - __main__ - INFO - Epoch [145/200] (146) train_mae: 90.1770, test_loss: 87.4141, test_mae: 86.4795, test_mape: 0.5184, test_rmse: 158.4281, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,207 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,208 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,223 - __main__ - INFO - Epoch [146/200] (147) train_loss: 93.0520, val_loss: 81.3604, val_mae: 80.4306, val_mape: 0.7214, val_rmse: 116.8839, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,237 - __main__ - INFO - Test: loss: 85.9269, mae: 84.9971, mape: 0.5286, rmse: 159.4963
+2022-07-27 10:29:22,239 - __main__ - INFO - Horizon 1 month: mae: 84.9971, mape: 0.5286, rmse: 159.4963
+2022-07-27 10:29:22,241 - __main__ - INFO - Epoch [146/200] (147) train_mae: 93.0520, test_loss: 85.9269, test_mae: 84.9971, test_mape: 0.5286, test_rmse: 159.4963, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,284 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,285 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,305 - __main__ - INFO - Epoch [147/200] (148) train_loss: 93.4618, val_loss: 88.4605, val_mae: 87.5288, val_mape: 0.8017, val_rmse: 135.5660, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,324 - __main__ - INFO - Test: loss: 91.6162, mae: 90.6846, mape: 0.5604, rmse: 154.6804
+2022-07-27 10:29:22,325 - __main__ - INFO - Horizon 1 month: mae: 90.6846, mape: 0.5604, rmse: 154.6804
+2022-07-27 10:29:22,326 - __main__ - INFO - Epoch [147/200] (148) train_mae: 93.4618, test_loss: 91.6162, test_mae: 90.6846, test_mape: 0.5604, test_rmse: 154.6804, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,370 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,371 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,388 - __main__ - INFO - Epoch [148/200] (149) train_loss: 90.9125, val_loss: 97.0482, val_mae: 96.1043, val_mape: 0.6536, val_rmse: 162.3875, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,405 - __main__ - INFO - Test: loss: 90.0189, mae: 89.0750, mape: 0.4993, rmse: 153.9590
+2022-07-27 10:29:22,406 - __main__ - INFO - Horizon 1 month: mae: 89.0750, mape: 0.4993, rmse: 153.9590
+2022-07-27 10:29:22,407 - __main__ - INFO - Epoch [148/200] (149) train_mae: 90.9125, test_loss: 90.0189, test_mae: 89.0750, test_mape: 0.4993, test_rmse: 153.9590, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,458 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,460 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,484 - __main__ - INFO - Epoch [149/200] (150) train_loss: 91.8076, val_loss: 90.5028, val_mae: 89.5510, val_mape: 0.6056, val_rmse: 144.7512, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:22,509 - __main__ - INFO - Test: loss: 89.1116, mae: 88.1598, mape: 0.4636, rmse: 154.2760
+2022-07-27 10:29:22,511 - __main__ - INFO - Horizon 1 month: mae: 88.1598, mape: 0.4636, rmse: 154.2760
+2022-07-27 10:29:22,512 - __main__ - INFO - Epoch [149/200] (150) train_mae: 91.8076, test_loss: 89.1116, test_mae: 88.1598, test_mape: 0.4636, test_rmse: 154.2760, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:22,565 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,567 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,581 - __main__ - INFO - Epoch [150/200] (151) train_loss: 90.9249, val_loss: 88.1002, val_mae: 87.1406, val_mape: 0.6467, val_rmse: 136.5222, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:22,595 - __main__ - INFO - Test: loss: 89.2851, mae: 88.3254, mape: 0.5092, rmse: 149.6834
+2022-07-27 10:29:22,596 - __main__ - INFO - Horizon 1 month: mae: 88.3254, mape: 0.5092, rmse: 149.6834
+2022-07-27 10:29:22,597 - __main__ - INFO - Epoch [150/200] (151) train_mae: 90.9249, test_loss: 89.2851, test_mae: 88.3254, test_mape: 0.5092, test_rmse: 149.6834, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:22,632 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,633 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,646 - __main__ - INFO - Epoch [151/200] (152) train_loss: 90.6353, val_loss: 74.2289, val_mae: 73.2683, val_mape: 0.6690, val_rmse: 108.1354, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:22,662 - __main__ - INFO - Test: loss: 91.7858, mae: 90.8252, mape: 0.5271, rmse: 172.9184
+2022-07-27 10:29:22,663 - __main__ - INFO - Horizon 1 month: mae: 90.8252, mape: 0.5271, rmse: 172.9184
+2022-07-27 10:29:22,665 - __main__ - INFO - Epoch [151/200] (152) train_mae: 90.6353, test_loss: 91.7858, test_mae: 90.8252, test_mape: 0.5271, test_rmse: 172.9184, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:22,705 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,706 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,720 - __main__ - INFO - Epoch [152/200] (153) train_loss: 101.6657, val_loss: 74.4761, val_mae: 73.5133, val_mape: 0.7699, val_rmse: 109.0467, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,735 - __main__ - INFO - Test: loss: 85.2672, mae: 84.3044, mape: 0.5375, rmse: 158.5104
+2022-07-27 10:29:22,737 - __main__ - INFO - Horizon 1 month: mae: 84.3044, mape: 0.5375, rmse: 158.5104
+2022-07-27 10:29:22,739 - __main__ - INFO - Epoch [152/200] (153) train_mae: 101.6657, test_loss: 85.2672, test_mae: 84.3044, test_mape: 0.5375, test_rmse: 158.5104, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,776 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,777 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,794 - __main__ - INFO - Epoch [153/200] (154) train_loss: 106.0306, val_loss: 85.0244, val_mae: 84.0571, val_mape: 0.7736, val_rmse: 131.1366, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,811 - __main__ - INFO - Test: loss: 86.7493, mae: 85.7821, mape: 0.5499, rmse: 148.5261
+2022-07-27 10:29:22,812 - __main__ - INFO - Horizon 1 month: mae: 85.7821, mape: 0.5499, rmse: 148.5261
+2022-07-27 10:29:22,814 - __main__ - INFO - Epoch [153/200] (154) train_mae: 106.0306, test_loss: 86.7493, test_mae: 85.7821, test_mape: 0.5499, test_rmse: 148.5261, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,869 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,869 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,888 - __main__ - INFO - Epoch [154/200] (155) train_loss: 94.9589, val_loss: 97.1675, val_mae: 96.1935, val_mape: 0.7235, val_rmse: 164.4431, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:22,900 - __main__ - INFO - Test: loss: 95.7345, mae: 94.7605, mape: 0.5420, rmse: 164.6898
+2022-07-27 10:29:22,902 - __main__ - INFO - Horizon 1 month: mae: 94.7605, mape: 0.5420, rmse: 164.6898
+2022-07-27 10:29:22,904 - __main__ - INFO - Epoch [154/200] (155) train_mae: 94.9589, test_loss: 95.7345, test_mae: 94.7605, test_mape: 0.5420, test_rmse: 164.6898, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:22,944 - __main__ - INFO - epoch complete
+2022-07-27 10:29:22,945 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:22,958 - __main__ - INFO - Epoch [155/200] (156) train_loss: 96.0630, val_loss: 107.9598, val_mae: 106.9838, val_mape: 0.6855, val_rmse: 194.3791, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:22,974 - __main__ - INFO - Test: loss: 95.9574, mae: 94.9815, mape: 0.4804, rmse: 172.0252
+2022-07-27 10:29:22,976 - __main__ - INFO - Horizon 1 month: mae: 94.9815, mape: 0.4804, rmse: 172.0252
+2022-07-27 10:29:22,977 - __main__ - INFO - Epoch [155/200] (156) train_mae: 96.0630, test_loss: 95.9574, test_mae: 94.9815, test_mape: 0.4804, test_rmse: 172.0252, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,022 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,023 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,036 - __main__ - INFO - Epoch [156/200] (157) train_loss: 99.3133, val_loss: 103.9145, val_mae: 102.9399, val_mape: 0.6580, val_rmse: 181.6919, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,052 - __main__ - INFO - Test: loss: 98.1054, mae: 97.1308, mape: 0.4966, rmse: 167.5064
+2022-07-27 10:29:23,054 - __main__ - INFO - Horizon 1 month: mae: 97.1308, mape: 0.4966, rmse: 167.5064
+2022-07-27 10:29:23,056 - __main__ - INFO - Epoch [156/200] (157) train_mae: 99.3133, test_loss: 98.1054, test_mae: 97.1308, test_mape: 0.4966, test_rmse: 167.5064, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,102 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,104 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,119 - __main__ - INFO - Epoch [157/200] (158) train_loss: 99.5595, val_loss: 91.9098, val_mae: 90.9404, val_mape: 0.6086, val_rmse: 150.3814, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,134 - __main__ - INFO - Test: loss: 94.8468, mae: 93.8774, mape: 0.4811, rmse: 159.6494
+2022-07-27 10:29:23,135 - __main__ - INFO - Horizon 1 month: mae: 93.8774, mape: 0.4811, rmse: 159.6494
+2022-07-27 10:29:23,137 - __main__ - INFO - Epoch [157/200] (158) train_mae: 99.5595, test_loss: 94.8468, test_mae: 93.8774, test_mape: 0.4811, test_rmse: 159.6494, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,183 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,185 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,199 - __main__ - INFO - Epoch [158/200] (159) train_loss: 91.3751, val_loss: 80.0100, val_mae: 79.0524, val_mape: 0.5963, val_rmse: 120.9830, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:23,216 - __main__ - INFO - Test: loss: 92.1280, mae: 91.1703, mape: 0.4835, rmse: 171.3471
+2022-07-27 10:29:23,218 - __main__ - INFO - Horizon 1 month: mae: 91.1703, mape: 0.4835, rmse: 171.3471
+2022-07-27 10:29:23,221 - __main__ - INFO - Epoch [158/200] (159) train_mae: 91.3751, test_loss: 92.1280, test_mae: 91.1703, test_mape: 0.4835, test_rmse: 171.3471, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:23,264 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,265 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,284 - __main__ - INFO - Epoch [159/200] (160) train_loss: 95.0610, val_loss: 82.4077, val_mae: 81.4622, val_mape: 0.6732, val_rmse: 122.8682, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,301 - __main__ - INFO - Test: loss: 94.5542, mae: 93.6087, mape: 0.4952, rmse: 181.7480
+2022-07-27 10:29:23,302 - __main__ - INFO - Horizon 1 month: mae: 93.6087, mape: 0.4952, rmse: 181.7480
+2022-07-27 10:29:23,303 - __main__ - INFO - Epoch [159/200] (160) train_mae: 95.0610, test_loss: 94.5542, test_mae: 93.6087, test_mape: 0.4952, test_rmse: 181.7480, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,342 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,343 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,358 - __main__ - INFO - Epoch [160/200] (161) train_loss: 102.8770, val_loss: 80.0011, val_mae: 79.0650, val_mape: 0.5996, val_rmse: 120.4344, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,372 - __main__ - INFO - Test: loss: 93.5771, mae: 92.6410, mape: 0.4707, rmse: 179.8115
+2022-07-27 10:29:23,375 - __main__ - INFO - Horizon 1 month: mae: 92.6410, mape: 0.4707, rmse: 179.8115
+2022-07-27 10:29:23,377 - __main__ - INFO - Epoch [160/200] (161) train_mae: 102.8770, test_loss: 93.5771, test_mae: 92.6410, test_mape: 0.4707, test_rmse: 179.8115, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,418 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,419 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,433 - __main__ - INFO - Epoch [161/200] (162) train_loss: 102.3455, val_loss: 80.1813, val_mae: 79.2496, val_mape: 0.5810, val_rmse: 120.4344, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,450 - __main__ - INFO - Test: loss: 86.4932, mae: 85.5615, mape: 0.4484, rmse: 160.9865
+2022-07-27 10:29:23,452 - __main__ - INFO - Horizon 1 month: mae: 85.5615, mape: 0.4484, rmse: 160.9865
+2022-07-27 10:29:23,455 - __main__ - INFO - Epoch [161/200] (162) train_mae: 102.3455, test_loss: 86.4932, test_mae: 85.5615, test_mape: 0.4484, test_rmse: 160.9865, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,493 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,494 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,508 - __main__ - INFO - Epoch [162/200] (163) train_loss: 94.2128, val_loss: 93.1087, val_mae: 92.1704, val_mape: 0.5957, val_rmse: 151.6249, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,524 - __main__ - INFO - Test: loss: 94.3846, mae: 93.4463, mape: 0.4794, rmse: 161.1690
+2022-07-27 10:29:23,525 - __main__ - INFO - Horizon 1 month: mae: 93.4463, mape: 0.4794, rmse: 161.1690
+2022-07-27 10:29:23,527 - __main__ - INFO - Epoch [162/200] (163) train_mae: 94.2128, test_loss: 94.3846, test_mae: 93.4463, test_mape: 0.4794, test_rmse: 161.1690, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,564 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,565 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,581 - __main__ - INFO - Epoch [163/200] (164) train_loss: 91.4539, val_loss: 98.7836, val_mae: 97.8377, val_mape: 0.6233, val_rmse: 166.8662, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,598 - __main__ - INFO - Test: loss: 98.9787, mae: 98.0329, mape: 0.5090, rmse: 170.1822
+2022-07-27 10:29:23,599 - __main__ - INFO - Horizon 1 month: mae: 98.0329, mape: 0.5090, rmse: 170.1822
+2022-07-27 10:29:23,600 - __main__ - INFO - Epoch [163/200] (164) train_mae: 91.4539, test_loss: 98.9787, test_mae: 98.0329, test_mape: 0.5090, test_rmse: 170.1822, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,647 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,648 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,661 - __main__ - INFO - Epoch [164/200] (165) train_loss: 94.9469, val_loss: 103.0732, val_mae: 102.1236, val_mape: 0.7635, val_rmse: 174.6330, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,677 - __main__ - INFO - Test: loss: 97.5499, mae: 96.6003, mape: 0.5642, rmse: 169.4363
+2022-07-27 10:29:23,678 - __main__ - INFO - Horizon 1 month: mae: 96.6003, mape: 0.5642, rmse: 169.4363
+2022-07-27 10:29:23,679 - __main__ - INFO - Epoch [164/200] (165) train_mae: 94.9469, test_loss: 97.5499, test_mae: 96.6003, test_mape: 0.5642, test_rmse: 169.4363, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,721 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,722 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,738 - __main__ - INFO - Epoch [165/200] (166) train_loss: 101.3804, val_loss: 96.4315, val_mae: 95.4831, val_mape: 0.7770, val_rmse: 159.3484, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,754 - __main__ - INFO - Test: loss: 94.4726, mae: 93.5242, mape: 0.5838, rmse: 162.6174
+2022-07-27 10:29:23,756 - __main__ - INFO - Horizon 1 month: mae: 93.5242, mape: 0.5838, rmse: 162.6174
+2022-07-27 10:29:23,757 - __main__ - INFO - Epoch [165/200] (166) train_mae: 101.3804, test_loss: 94.4726, test_mae: 93.5242, test_mape: 0.5838, test_rmse: 162.6174, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,796 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,797 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,813 - __main__ - INFO - Epoch [166/200] (167) train_loss: 94.1544, val_loss: 88.5817, val_mae: 87.6406, val_mape: 0.7511, val_rmse: 137.6276, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,828 - __main__ - INFO - Test: loss: 91.1090, mae: 90.1679, mape: 0.5493, rmse: 156.8517
+2022-07-27 10:29:23,829 - __main__ - INFO - Horizon 1 month: mae: 90.1679, mape: 0.5493, rmse: 156.8517
+2022-07-27 10:29:23,831 - __main__ - INFO - Epoch [166/200] (167) train_mae: 94.1544, test_loss: 91.1090, test_mae: 90.1679, test_mape: 0.5493, test_rmse: 156.8517, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,872 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,873 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,886 - __main__ - INFO - Epoch [167/200] (168) train_loss: 92.0367, val_loss: 81.6190, val_mae: 80.6899, val_mape: 0.6669, val_rmse: 124.8605, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,906 - __main__ - INFO - Test: loss: 89.8840, mae: 88.9549, mape: 0.4954, rmse: 158.4477
+2022-07-27 10:29:23,907 - __main__ - INFO - Horizon 1 month: mae: 88.9549, mape: 0.4954, rmse: 158.4477
+2022-07-27 10:29:23,909 - __main__ - INFO - Epoch [167/200] (168) train_mae: 92.0367, test_loss: 89.8840, test_mae: 88.9549, test_mape: 0.4954, test_rmse: 158.4477, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,952 - __main__ - INFO - epoch complete
+2022-07-27 10:29:23,954 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:23,970 - __main__ - INFO - Epoch [168/200] (169) train_loss: 91.1133, val_loss: 78.1051, val_mae: 77.1643, val_mape: 0.5416, val_rmse: 116.6683, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:23,986 - __main__ - INFO - Test: loss: 89.5566, mae: 88.6158, mape: 0.4448, rmse: 162.2457
+2022-07-27 10:29:23,987 - __main__ - INFO - Horizon 1 month: mae: 88.6158, mape: 0.4448, rmse: 162.2457
+2022-07-27 10:29:23,988 - __main__ - INFO - Epoch [168/200] (169) train_mae: 91.1133, test_loss: 89.5566, test_mae: 88.6158, test_mape: 0.4448, test_rmse: 162.2457, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,029 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,030 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,042 - __main__ - INFO - Epoch [169/200] (170) train_loss: 94.7937, val_loss: 78.3719, val_mae: 77.4152, val_mape: 0.5287, val_rmse: 116.1013, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,057 - __main__ - INFO - Test: loss: 90.0151, mae: 89.0584, mape: 0.4633, rmse: 160.6355
+2022-07-27 10:29:24,058 - __main__ - INFO - Horizon 1 month: mae: 89.0584, mape: 0.4633, rmse: 160.6355
+2022-07-27 10:29:24,060 - __main__ - INFO - Epoch [169/200] (170) train_mae: 94.7937, test_loss: 90.0151, test_mae: 89.0584, test_mape: 0.4633, test_rmse: 160.6355, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,111 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,112 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,127 - __main__ - INFO - Epoch [170/200] (171) train_loss: 94.1206, val_loss: 79.4121, val_mae: 78.4435, val_mape: 0.5418, val_rmse: 120.2517, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:24,141 - __main__ - INFO - Test: loss: 90.6715, mae: 89.7029, mape: 0.4704, rmse: 159.8222
+2022-07-27 10:29:24,142 - __main__ - INFO - Horizon 1 month: mae: 89.7029, mape: 0.4704, rmse: 159.8222
+2022-07-27 10:29:24,143 - __main__ - INFO - Epoch [170/200] (171) train_mae: 94.1206, test_loss: 90.6715, test_mae: 89.7029, test_mape: 0.4704, test_rmse: 159.8222, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:24,182 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,184 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,203 - __main__ - INFO - Epoch [171/200] (172) train_loss: 94.6136, val_loss: 82.7338, val_mae: 81.7573, val_mape: 0.6715, val_rmse: 125.1894, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,220 - __main__ - INFO - Test: loss: 89.5220, mae: 88.5455, mape: 0.4896, rmse: 154.0998
+2022-07-27 10:29:24,221 - __main__ - INFO - Horizon 1 month: mae: 88.5455, mape: 0.4896, rmse: 154.0998
+2022-07-27 10:29:24,223 - __main__ - INFO - Epoch [171/200] (172) train_mae: 94.6136, test_loss: 89.5220, test_mae: 88.5455, test_mape: 0.4896, test_rmse: 154.0998, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,266 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,267 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,286 - __main__ - INFO - Epoch [172/200] (173) train_loss: 91.7272, val_loss: 93.0102, val_mae: 92.0370, val_mape: 0.7577, val_rmse: 149.0585, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,302 - __main__ - INFO - Test: loss: 92.1501, mae: 91.1769, mape: 0.5270, rmse: 156.1419
+2022-07-27 10:29:24,303 - __main__ - INFO - Horizon 1 month: mae: 91.1769, mape: 0.5270, rmse: 156.1419
+2022-07-27 10:29:24,304 - __main__ - INFO - Epoch [172/200] (173) train_mae: 91.7272, test_loss: 92.1501, test_mae: 91.1769, test_mape: 0.5270, test_rmse: 156.1419, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,345 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,346 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,363 - __main__ - INFO - Epoch [173/200] (174) train_loss: 92.3083, val_loss: 93.8189, val_mae: 92.8566, val_mape: 0.7591, val_rmse: 151.8946, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,381 - __main__ - INFO - Test: loss: 93.9973, mae: 93.0350, mape: 0.5448, rmse: 159.5301
+2022-07-27 10:29:24,382 - __main__ - INFO - Horizon 1 month: mae: 93.0350, mape: 0.5448, rmse: 159.5301
+2022-07-27 10:29:24,383 - __main__ - INFO - Epoch [173/200] (174) train_mae: 92.3083, test_loss: 93.9973, test_mae: 93.0350, test_mape: 0.5448, test_rmse: 159.5301, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,424 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,425 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,438 - __main__ - INFO - Epoch [174/200] (175) train_loss: 94.5174, val_loss: 95.0568, val_mae: 94.1086, val_mape: 0.7849, val_rmse: 157.0389, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,453 - __main__ - INFO - Test: loss: 95.7816, mae: 94.8335, mape: 0.5948, rmse: 160.7448
+2022-07-27 10:29:24,455 - __main__ - INFO - Horizon 1 month: mae: 94.8335, mape: 0.5948, rmse: 160.7448
+2022-07-27 10:29:24,457 - __main__ - INFO - Epoch [174/200] (175) train_mae: 94.5174, test_loss: 95.7816, test_mae: 94.8335, test_mape: 0.5948, test_rmse: 160.7448, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,500 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,502 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,514 - __main__ - INFO - Epoch [175/200] (176) train_loss: 94.6343, val_loss: 86.7359, val_mae: 85.7937, val_mape: 0.6653, val_rmse: 137.5451, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,535 - __main__ - INFO - Test: loss: 91.7756, mae: 90.8334, mape: 0.5320, rmse: 154.9829
+2022-07-27 10:29:24,537 - __main__ - INFO - Horizon 1 month: mae: 90.8334, mape: 0.5320, rmse: 154.9829
+2022-07-27 10:29:24,537 - __main__ - INFO - Epoch [175/200] (176) train_mae: 94.6343, test_loss: 91.7756, test_mae: 90.8334, test_mape: 0.5320, test_rmse: 154.9829, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,590 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,591 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,616 - __main__ - INFO - Epoch [176/200] (177) train_loss: 91.8080, val_loss: 86.2883, val_mae: 85.3461, val_mape: 0.6863, val_rmse: 133.6424, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:24,643 - __main__ - INFO - Test: loss: 88.4690, mae: 87.5268, mape: 0.5119, rmse: 152.3659
+2022-07-27 10:29:24,644 - __main__ - INFO - Horizon 1 month: mae: 87.5268, mape: 0.5119, rmse: 152.3659
+2022-07-27 10:29:24,645 - __main__ - INFO - Epoch [176/200] (177) train_mae: 91.8080, test_loss: 88.4690, test_mae: 87.5268, test_mape: 0.5119, test_rmse: 152.3659, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:24,703 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,705 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,729 - __main__ - INFO - Epoch [177/200] (178) train_loss: 90.0753, val_loss: 78.7928, val_mae: 77.8655, val_mape: 0.6447, val_rmse: 117.5528, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:24,752 - __main__ - INFO - Test: loss: 86.6423, mae: 85.7150, mape: 0.5149, rmse: 159.4506
+2022-07-27 10:29:24,754 - __main__ - INFO - Horizon 1 month: mae: 85.7150, mape: 0.5149, rmse: 159.4506
+2022-07-27 10:29:24,756 - __main__ - INFO - Epoch [177/200] (178) train_mae: 90.0753, test_loss: 86.6423, test_mae: 85.7150, test_mape: 0.5149, test_rmse: 159.4506, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:24,818 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,819 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,836 - __main__ - INFO - Epoch [178/200] (179) train_loss: 93.8944, val_loss: 78.7053, val_mae: 77.7852, val_mape: 0.6518, val_rmse: 116.5713, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:24,852 - __main__ - INFO - Test: loss: 93.5655, mae: 92.6454, mape: 0.5068, rmse: 174.1766
+2022-07-27 10:29:24,853 - __main__ - INFO - Horizon 1 month: mae: 92.6454, mape: 0.5068, rmse: 174.1766
+2022-07-27 10:29:24,855 - __main__ - INFO - Epoch [178/200] (179) train_mae: 93.8944, test_loss: 93.5655, test_mae: 92.6454, test_mape: 0.5068, test_rmse: 174.1766, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:24,898 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,899 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,912 - __main__ - INFO - Epoch [179/200] (180) train_loss: 99.0543, val_loss: 79.3870, val_mae: 78.4661, val_mape: 0.5913, val_rmse: 117.0751, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,929 - __main__ - INFO - Test: loss: 88.9006, mae: 87.9797, mape: 0.4490, rmse: 162.0796
+2022-07-27 10:29:24,930 - __main__ - INFO - Horizon 1 month: mae: 87.9797, mape: 0.4490, rmse: 162.0796
+2022-07-27 10:29:24,932 - __main__ - INFO - Epoch [179/200] (180) train_mae: 99.0543, test_loss: 88.9006, test_mae: 87.9797, test_mape: 0.4490, test_rmse: 162.0796, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:24,980 - __main__ - INFO - epoch complete
+2022-07-27 10:29:24,982 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:24,997 - __main__ - INFO - Epoch [180/200] (181) train_loss: 94.7670, val_loss: 81.6034, val_mae: 80.6742, val_mape: 0.5860, val_rmse: 124.2315, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,011 - __main__ - INFO - Test: loss: 90.7187, mae: 89.7894, mape: 0.4515, rmse: 156.0300
+2022-07-27 10:29:25,013 - __main__ - INFO - Horizon 1 month: mae: 89.7894, mape: 0.4515, rmse: 156.0300
+2022-07-27 10:29:25,015 - __main__ - INFO - Epoch [180/200] (181) train_mae: 94.7670, test_loss: 90.7187, test_mae: 89.7894, test_mape: 0.4515, test_rmse: 156.0300, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,059 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,060 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,075 - __main__ - INFO - Epoch [181/200] (182) train_loss: 90.3684, val_loss: 93.0270, val_mae: 92.0786, val_mape: 0.6790, val_rmse: 150.6232, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,094 - __main__ - INFO - Test: loss: 93.2399, mae: 92.2915, mape: 0.5162, rmse: 156.5063
+2022-07-27 10:29:25,096 - __main__ - INFO - Horizon 1 month: mae: 92.2915, mape: 0.5162, rmse: 156.5063
+2022-07-27 10:29:25,097 - __main__ - INFO - Epoch [181/200] (182) train_mae: 90.3684, test_loss: 93.2399, test_mae: 92.2915, test_mape: 0.5162, test_rmse: 156.5063, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,136 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,137 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,151 - __main__ - INFO - Epoch [182/200] (183) train_loss: 90.3694, val_loss: 96.1167, val_mae: 95.1531, val_mape: 0.7851, val_rmse: 158.5899, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,170 - __main__ - INFO - Test: loss: 96.8321, mae: 95.8684, mape: 0.5802, rmse: 162.5434
+2022-07-27 10:29:25,171 - __main__ - INFO - Horizon 1 month: mae: 95.8684, mape: 0.5802, rmse: 162.5434
+2022-07-27 10:29:25,174 - __main__ - INFO - Epoch [182/200] (183) train_mae: 90.3694, test_loss: 96.8321, test_mae: 95.8684, test_mape: 0.5802, test_rmse: 162.5434, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,232 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,233 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,252 - __main__ - INFO - Epoch [183/200] (184) train_loss: 92.2104, val_loss: 99.5367, val_mae: 98.5654, val_mape: 0.8879, val_rmse: 160.5761, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:25,267 - __main__ - INFO - Test: loss: 97.2356, mae: 96.2644, mape: 0.6407, rmse: 161.6467
+2022-07-27 10:29:25,268 - __main__ - INFO - Horizon 1 month: mae: 96.2644, mape: 0.6407, rmse: 161.6467
+2022-07-27 10:29:25,269 - __main__ - INFO - Epoch [183/200] (184) train_mae: 92.2104, test_loss: 97.2356, test_mae: 96.2644, test_mape: 0.6407, test_rmse: 161.6467, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:25,312 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,313 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,327 - __main__ - INFO - Epoch [184/200] (185) train_loss: 94.9198, val_loss: 91.5375, val_mae: 90.5640, val_mape: 0.8533, val_rmse: 143.1842, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,342 - __main__ - INFO - Test: loss: 94.8074, mae: 93.8339, mape: 0.6346, rmse: 157.5039
+2022-07-27 10:29:25,344 - __main__ - INFO - Horizon 1 month: mae: 93.8339, mape: 0.6346, rmse: 157.5039
+2022-07-27 10:29:25,346 - __main__ - INFO - Epoch [184/200] (185) train_mae: 94.9198, test_loss: 94.8074, test_mae: 93.8339, test_mape: 0.6346, test_rmse: 157.5039, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,385 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,386 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,401 - __main__ - INFO - Epoch [185/200] (186) train_loss: 92.3540, val_loss: 86.7759, val_mae: 85.8028, val_mape: 0.7621, val_rmse: 132.6876, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,417 - __main__ - INFO - Test: loss: 90.4210, mae: 89.4479, mape: 0.5566, rmse: 154.1432
+2022-07-27 10:29:25,418 - __main__ - INFO - Horizon 1 month: mae: 89.4479, mape: 0.5566, rmse: 154.1432
+2022-07-27 10:29:25,419 - __main__ - INFO - Epoch [185/200] (186) train_mae: 92.3540, test_loss: 90.4210, test_mae: 89.4479, test_mape: 0.5566, test_rmse: 154.1432, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,467 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,468 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,485 - __main__ - INFO - Epoch [186/200] (187) train_loss: 91.3792, val_loss: 79.6656, val_mae: 78.6951, val_mape: 0.5992, val_rmse: 120.4724, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,507 - __main__ - INFO - Test: loss: 89.8916, mae: 88.9211, mape: 0.4788, rmse: 156.4886
+2022-07-27 10:29:25,508 - __main__ - INFO - Horizon 1 month: mae: 88.9211, mape: 0.4788, rmse: 156.4886
+2022-07-27 10:29:25,509 - __main__ - INFO - Epoch [186/200] (187) train_mae: 91.3792, test_loss: 89.8916, test_mae: 88.9211, test_mape: 0.4788, test_rmse: 156.4886, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,556 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,558 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,573 - __main__ - INFO - Epoch [187/200] (188) train_loss: 91.5105, val_loss: 84.1015, val_mae: 83.1317, val_mape: 0.5830, val_rmse: 128.2344, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,595 - __main__ - INFO - Test: loss: 90.1700, mae: 89.2003, mape: 0.4405, rmse: 159.2639
+2022-07-27 10:29:25,597 - __main__ - INFO - Horizon 1 month: mae: 89.2003, mape: 0.4405, rmse: 159.2639
+2022-07-27 10:29:25,599 - __main__ - INFO - Epoch [187/200] (188) train_mae: 91.5105, test_loss: 90.1700, test_mae: 89.2003, test_mape: 0.4405, test_rmse: 159.2639, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,651 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,653 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,671 - __main__ - INFO - Epoch [188/200] (189) train_loss: 92.5455, val_loss: 89.1492, val_mae: 88.1811, val_mape: 0.5798, val_rmse: 141.9005, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:25,689 - __main__ - INFO - Test: loss: 95.2803, mae: 94.3122, mape: 0.4878, rmse: 157.8230
+2022-07-27 10:29:25,690 - __main__ - INFO - Horizon 1 month: mae: 94.3122, mape: 0.4878, rmse: 157.8230
+2022-07-27 10:29:25,690 - __main__ - INFO - Epoch [188/200] (189) train_mae: 92.5455, test_loss: 95.2803, test_mae: 94.3122, test_mape: 0.4878, test_rmse: 157.8230, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:25,732 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,733 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,747 - __main__ - INFO - Epoch [189/200] (190) train_loss: 93.8219, val_loss: 92.5867, val_mae: 91.6224, val_mape: 0.6728, val_rmse: 146.1011, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,765 - __main__ - INFO - Test: loss: 94.4015, mae: 93.4372, mape: 0.5143, rmse: 158.8107
+2022-07-27 10:29:25,767 - __main__ - INFO - Horizon 1 month: mae: 93.4372, mape: 0.5143, rmse: 158.8107
+2022-07-27 10:29:25,768 - __main__ - INFO - Epoch [189/200] (190) train_mae: 93.8219, test_loss: 94.4015, test_mae: 93.4372, test_mape: 0.5143, test_rmse: 158.8107, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,811 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,812 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,826 - __main__ - INFO - Epoch [190/200] (191) train_loss: 92.2711, val_loss: 86.9604, val_mae: 86.0097, val_mape: 0.7992, val_rmse: 132.8992, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,841 - __main__ - INFO - Test: loss: 92.8171, mae: 91.8664, mape: 0.5570, rmse: 160.1771
+2022-07-27 10:29:25,842 - __main__ - INFO - Horizon 1 month: mae: 91.8664, mape: 0.5570, rmse: 160.1771
+2022-07-27 10:29:25,843 - __main__ - INFO - Epoch [190/200] (191) train_mae: 92.2711, test_loss: 92.8171, test_mae: 91.8664, test_mape: 0.5570, test_rmse: 160.1771, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,889 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,890 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,906 - __main__ - INFO - Epoch [191/200] (192) train_loss: 91.4405, val_loss: 92.3921, val_mae: 91.4551, val_mape: 0.8323, val_rmse: 142.2324, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,925 - __main__ - INFO - Test: loss: 92.4016, mae: 91.4646, mape: 0.5682, rmse: 156.6986
+2022-07-27 10:29:25,927 - __main__ - INFO - Horizon 1 month: mae: 91.4646, mape: 0.5682, rmse: 156.6986
+2022-07-27 10:29:25,928 - __main__ - INFO - Epoch [191/200] (192) train_mae: 91.4405, test_loss: 92.4016, test_mae: 91.4646, test_mape: 0.5682, test_rmse: 156.6986, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:25,972 - __main__ - INFO - epoch complete
+2022-07-27 10:29:25,973 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:25,987 - __main__ - INFO - Epoch [192/200] (193) train_loss: 91.6904, val_loss: 91.7767, val_mae: 90.8360, val_mape: 0.7658, val_rmse: 146.9650, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:26,012 - __main__ - INFO - Test: loss: 93.3484, mae: 92.4077, mape: 0.5888, rmse: 157.3361
+2022-07-27 10:29:26,013 - __main__ - INFO - Horizon 1 month: mae: 92.4077, mape: 0.5888, rmse: 157.3361
+2022-07-27 10:29:26,015 - __main__ - INFO - Epoch [192/200] (193) train_mae: 91.6904, test_loss: 93.3484, test_mae: 92.4077, test_mape: 0.5888, test_rmse: 157.3361, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:26,060 - __main__ - INFO - epoch complete
+2022-07-27 10:29:26,061 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:26,078 - __main__ - INFO - Epoch [193/200] (194) train_loss: 90.9254, val_loss: 94.0556, val_mae: 93.1132, val_mape: 0.7906, val_rmse: 150.3719, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:26,097 - __main__ - INFO - Test: loss: 95.1433, mae: 94.2009, mape: 0.5817, rmse: 158.2490
+2022-07-27 10:29:26,098 - __main__ - INFO - Horizon 1 month: mae: 94.2009, mape: 0.5817, rmse: 158.2490
+2022-07-27 10:29:26,099 - __main__ - INFO - Epoch [193/200] (194) train_mae: 90.9254, test_loss: 95.1433, test_mae: 94.2009, test_mape: 0.5817, test_rmse: 158.2490, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:26,139 - __main__ - INFO - epoch complete
+2022-07-27 10:29:26,140 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:26,159 - __main__ - INFO - Epoch [194/200] (195) train_loss: 91.7627, val_loss: 91.2583, val_mae: 90.3178, val_mape: 0.6623, val_rmse: 144.4207, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:26,174 - __main__ - INFO - Test: loss: 94.4068, mae: 93.4663, mape: 0.5657, rmse: 161.1195
+2022-07-27 10:29:26,176 - __main__ - INFO - Horizon 1 month: mae: 93.4663, mape: 0.5657, rmse: 161.1195
+2022-07-27 10:29:26,180 - __main__ - INFO - Epoch [194/200] (195) train_mae: 91.7627, test_loss: 94.4068, test_mae: 93.4663, test_mape: 0.5657, test_rmse: 161.1195, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:26,216 - __main__ - INFO - epoch complete
+2022-07-27 10:29:26,218 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:26,231 - __main__ - INFO - Epoch [195/200] (196) train_loss: 89.0599, val_loss: 86.1501, val_mae: 85.2169, val_mape: 0.6421, val_rmse: 135.4304, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:26,253 - __main__ - INFO - Test: loss: 94.6073, mae: 93.6742, mape: 0.5272, rmse: 164.9411
+2022-07-27 10:29:26,254 - __main__ - INFO - Horizon 1 month: mae: 93.6742, mape: 0.5272, rmse: 164.9411
+2022-07-27 10:29:26,255 - __main__ - INFO - Epoch [195/200] (196) train_mae: 89.0599, test_loss: 94.6073, test_mae: 93.6742, test_mape: 0.5272, test_rmse: 164.9411, lr: 0.000001, 0.0s, 0.0s
+2022-07-27 10:29:26,295 - __main__ - INFO - epoch complete
+2022-07-27 10:29:26,297 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:26,314 - __main__ - INFO - Epoch [196/200] (197) train_loss: 92.5987, val_loss: 85.5339, val_mae: 84.6123, val_mape: 0.6871, val_rmse: 132.4338, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:26,330 - __main__ - INFO - Test: loss: 90.1492, mae: 89.2276, mape: 0.5211, rmse: 158.8990
+2022-07-27 10:29:26,332 - __main__ - INFO - Horizon 1 month: mae: 89.2276, mape: 0.5211, rmse: 158.8990
+2022-07-27 10:29:26,334 - __main__ - INFO - Epoch [196/200] (197) train_mae: 92.5987, test_loss: 90.1492, test_mae: 89.2276, test_mape: 0.5211, test_rmse: 158.8990, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:26,376 - __main__ - INFO - epoch complete
+2022-07-27 10:29:26,378 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:26,394 - __main__ - INFO - Epoch [197/200] (198) train_loss: 91.0255, val_loss: 77.9500, val_mae: 77.0462, val_mape: 0.6606, val_rmse: 116.3271, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:26,419 - __main__ - INFO - Test: loss: 86.6622, mae: 85.7585, mape: 0.4905, rmse: 154.9675
+2022-07-27 10:29:26,420 - __main__ - INFO - Horizon 1 month: mae: 85.7585, mape: 0.4905, rmse: 154.9675
+2022-07-27 10:29:26,421 - __main__ - INFO - Epoch [197/200] (198) train_mae: 91.0255, test_loss: 86.6622, test_mae: 85.7585, test_mape: 0.4905, test_rmse: 154.9675, lr: 0.000001, 0.0s, 0.1s
+2022-07-27 10:29:26,479 - __main__ - INFO - epoch complete
+2022-07-27 10:29:26,480 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:26,503 - __main__ - INFO - Epoch [198/200] (199) train_loss: 91.1665, val_loss: 77.7759, val_mae: 76.8886, val_mape: 0.5832, val_rmse: 121.0998, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:26,520 - __main__ - INFO - Test: loss: 90.4163, mae: 89.5289, mape: 0.4557, rmse: 156.2315
+2022-07-27 10:29:26,523 - __main__ - INFO - Horizon 1 month: mae: 89.5289, mape: 0.4557, rmse: 156.2315
+2022-07-27 10:29:26,524 - __main__ - INFO - Epoch [198/200] (199) train_mae: 91.1665, test_loss: 90.4163, test_mae: 89.5289, test_mape: 0.4557, test_rmse: 156.2315, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:26,580 - __main__ - INFO - epoch complete
+2022-07-27 10:29:26,581 - __main__ - INFO - evaluating now!
+2022-07-27 10:29:26,592 - __main__ - INFO - Epoch [199/200] (200) train_loss: 92.6923, val_loss: 86.1814, val_mae: 85.3027, val_mape: 0.6670, val_rmse: 133.7098, lr: 0.000001, 0.1s, 0.1s
+2022-07-27 10:29:26,607 - __main__ - INFO - Test: loss: 90.1833, mae: 89.3046, mape: 0.5037, rmse: 154.6647
+2022-07-27 10:29:26,609 - __main__ - INFO - Horizon 1 month: mae: 89.3046, mape: 0.5037, rmse: 154.6647
+2022-07-27 10:29:26,611 - __main__ - INFO - Epoch [199/200] (200) train_mae: 92.6923, test_loss: 90.1833, test_mae: 89.3046, test_mape: 0.5037, test_rmse: 154.6647, lr: 0.000001, 0.1s, 0.1s
