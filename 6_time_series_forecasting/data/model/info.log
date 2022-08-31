@@ -1,0 +1,40 @@
+2022-07-27 09:09:47,104 - Baseline - INFO - Log directory: data/model
+2022-07-27 09:09:48,575 - Baseline - INFO - Static
+2022-07-27 09:09:48,577 - Baseline - INFO - Model	Horizon	RMSE	MAPE	MAE
+2022-07-27 09:09:48,615 - Baseline - INFO - Static	1	142.18	65.45	77.53
+2022-07-27 09:09:48,617 - Baseline - INFO - Static	1	172.27	54.35	92.17
+2022-07-27 09:12:39,810 - Baseline - INFO - Log directory: data/model
+2022-07-27 09:12:39,826 - Baseline - INFO - Static
+2022-07-27 09:12:39,827 - Baseline - INFO - Model	Horizon	RMSE	MAPE	MAE
+2022-07-27 09:12:39,851 - Baseline - INFO - Static	1	142.18	65.45	77.53
+2022-07-27 09:12:39,852 - Baseline - INFO - Static	1	172.27	54.35	92.17
+2022-07-27 09:13:57,444 - Baseline - INFO - Log directory: data/model
+2022-07-27 09:13:58,770 - Baseline - INFO - Static
+2022-07-27 09:13:58,772 - Baseline - INFO - Model	Horizon	RMSE	MAPE	MAE
+2022-07-27 09:13:58,801 - Baseline - INFO - Static	1	142.18	65.45	77.53
+2022-07-27 09:13:58,803 - Baseline - INFO - Static	1	172.27	54.35	92.17
+2022-07-27 09:41:21,149 - Baseline - INFO - Log directory: data/model
+2022-07-27 09:41:22,826 - Baseline - INFO - Historical Average
+2022-07-27 09:41:22,828 - Baseline - INFO - Model	Horizon	RMSE	MAPE	MAE
+2022-07-27 09:41:22,830 - Baseline - INFO - HA	1	152.25	66.36	85.76
+2022-07-27 09:41:22,832 - Baseline - INFO - HA	1	163.90	55.64	93.04
+2022-07-27 09:42:10,766 - Baseline - INFO - Log directory: data/model
+2022-07-27 09:42:11,953 - Baseline - INFO - Historical Average
+2022-07-27 09:42:11,954 - Baseline - INFO - Model	Horizon	RMSE	MAPE	MAE
+2022-07-27 09:42:11,955 - Baseline - INFO - HA	1	152.25	66.36	85.76
+2022-07-27 09:42:11,955 - Baseline - INFO - HA	1	163.90	55.64	93.04
+2022-07-27 09:43:10,451 - Baseline - INFO - Log directory: data/model
+2022-07-27 09:43:11,135 - Baseline - INFO - Static
+2022-07-27 09:43:11,136 - Baseline - INFO - Model	Horizon	RMSE	MAPE	MAE
+2022-07-27 09:43:11,153 - Baseline - INFO - Static	1	142.18	65.45	77.53
+2022-07-27 09:43:11,155 - Baseline - INFO - Static	1	172.27	54.35	92.17
+2022-07-27 09:48:37,247 - Baseline - INFO - Log directory: data/model
+2022-07-27 09:48:38,538 - Baseline - INFO - VAR (lag=1)
+2022-07-27 09:48:38,540 - Baseline - INFO - Model	Horizon	RMSE	MAPE	MAE
+2022-07-27 09:48:38,571 - Baseline - INFO - VAR	1	219.29	139.57	117.40
+2022-07-27 09:48:38,574 - Baseline - INFO - VAR	1	226.59	76.44	121.57
+2022-07-27 09:49:30,791 - Baseline - INFO - Log directory: data/model
+2022-07-27 09:49:31,445 - Baseline - INFO - VAR (lag=1)
+2022-07-27 09:49:31,445 - Baseline - INFO - Model	Horizon	RMSE	MAPE	MAE
+2022-07-27 09:49:31,463 - Baseline - INFO - VAR	1	219.29	139.57	117.40
+2022-07-27 09:49:31,464 - Baseline - INFO - VAR	1	226.59	76.44	121.57
